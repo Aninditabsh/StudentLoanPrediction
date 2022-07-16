@@ -1,0 +1,1001 @@
+﻿Gender,Age,Result of HSC,Result of SSC,Year of Enrollment,Certifications,Institution,Discipline,Family Dependency,Applied Loan Amount,Duration of Loan,Approved Loan Amount,NOC from University,Approved
+Female,27,4.47,3.27,2020,3.75,UITS,Art & Design,Yes,1598000,3,375000,Yes,Yes
+Male,27,4.47,4.67,2019,3.33,JNU,Mathematics,No,472000,3,300000,No,No
+Female,20,4.33,5,2019,3.89,AIUB,Mathematics,Yes,472000,4,330000,No,Yes
+Female,24,4.83,3.58,2020,3.89,UIU,Business,No,1520000,2,300000,Yes,Yes
+Female,30,4.5,3.89,2020,3.15,RUET,Education & Teaching,Yes,1215000,2,530000,No,No
+Male,18,5,3.46,2019,3.4,IUB,Health & Medicine,No,935000,2,490000,No,No
+Female,26,4.09,4.47,2021,3.09,NSTU,Business,No,1520000,4,472000,No,No
+Female,19,3.09,4.4,2022,3.97,JNU,Computer Science,No,2429700,2,490000,Yes,No
+Male,27,4.97,4.83,2018,3.97,NSU,Programming,No,1400000,3,330000,No,Yes
+Female,18,4.97,4.89,2020,4,NSTU,Art & Design,No,1598000,2,300000,Yes,Yes
+Male,19,4.15,3.33,2018,3.33,CU,Art & Design,No,1598000,2,250000,No,No
+Male,24,3.46,3.89,2020,3.52,UITS,Data Science,No,1776000,4,600000,No,No
+Male,28,4.47,5,2022,3.97,DU,Art & Design,Yes,1598000,2,400000,No,Yes
+Male,27,4,4.89,2019,3,RUET,Data Science,Yes,1776000,3,250000,No,No
+Male,28,3.97,4.72,2022,3.09,RU,Business,Yes,1520000,3,500000,No,No
+Female,30,4.89,4.4,2019,3.46,NSTU,Art & Design,No,1598000,2,290000,No,No
+Female,30,4.72,4.97,2020,3.83,NSU,Mathematics,Yes,472000,3,490000,No,No
+Female,25,4.33,4.15,2018,3.4,BracU,Business,No,1520000,4,500000,No,No
+Male,29,4.89,4.97,2022,3,AIUB,Business,Yes,1520000,4,300000,No,No
+Male,29,4.89,4.56,2021,3.46,KUET,Art & Design,Yes,1598000,2,490000,No,No
+Male,26,3.46,4.97,2021,3.75,SUST,Mathematics,No,472000,4,400000,No,Yes
+Male,27,3.75,4.15,2018,3.83,SUST,Programming,Yes,1400000,4,375000,Yes,Yes
+Female,20,4.56,4.83,2020,3.58,BracU,Humainities,Yes,1170000,4,580000,Yes,Yes
+Female,25,4.27,3.89,2020,3.75,RU,Education & Teaching,No,1215000,3,220000,No,No
+Male,20,3.75,3.4,2019,3.4,NSTU,Computer Science,No,2429700,4,472000,No,No
+Male,30,4.5,3.67,2018,3.15,MIST,Computer Science,No,2429700,2,600000,No,No
+Female,24,3,4.4,2022,3.33,AIUB,Business,Yes,1520000,4,472000,No,No
+Male,29,3,3.97,2019,3.52,EWU,Computer Science,Yes,2429700,4,300000,No,Yes
+Male,20,5,3.09,2019,3.33,RU,Art & Design,Yes,1598000,3,440000,No,No
+Male,27,4.33,4.4,2020,3.33,UIU,Mathematics,Yes,472000,3,330000,No,No
+Female,25,4.89,3.97,2019,3.09,EWU,Health & Medicine,No,935000,4,490000,No,No
+Male,20,3.58,4.83,2022,3,CU,Business,No,1520000,2,175000,No,No
+Male,19,3.67,4.89,2020,3.52,CU,Art & Design,Yes,1598000,3,200000,No,Yes
+Male,24,3.46,4.09,2019,3.46,KUET,Computer Science,No,2429700,3,490000,No,No
+Female,18,4.5,4.56,2022,3.67,EWU,Mathematics,Yes,472000,2,290000,Yes,Yes
+Female,24,5,4.83,2021,3.4,CU,Business,Yes,1520000,3,440000,No,No
+Male,23,4.67,4.47,2022,3.33,KUET,Computer Science,Yes,2429700,2,300000,No,No
+Female,27,3.27,4.5,2019,3.46,DU,Computer Science,No,2429700,3,490000,No,No
+Male,27,3.97,3,2020,3.15,IUB,Business,Yes,1520000,2,250000,No,No
+Male,19,4.5,4.09,2021,3.09,RU,Art & Design,Yes,1598000,3,175000,No,No
+Female,26,3.27,4.97,2019,3.83,CU,Health & Medicine,Yes,935000,3,175000,Yes,Yes
+Male,29,3.52,4.27,2021,3.09,JU,Business,Yes,1520000,4,530000,No,No
+Female,20,3,4.33,2018,4,DU,Education & Teaching,Yes,1215000,2,472000,Yes,No
+Female,27,4.67,3.83,2021,3.46,SUST,Art & Design,Yes,1598000,2,580000,No,No
+Male,21,3.33,3.75,2020,3.83,IUB,Business,Yes,1520000,4,200000,No,Yes
+Male,26,4.15,4.56,2018,3.58,JU,Business,Yes,1520000,2,440000,No,Yes
+Female,30,4.47,4.47,2018,3.09,JNU,Mathematics,Yes,472000,2,300000,No,No
+Male,20,3.67,3.75,2022,3.46,EWU,Computer Science,No,2429700,2,375000,No,No
+Female,25,4.89,3.09,2020,3.89,AIUB,Programming,No,1400000,4,200000,Yes,No
+Male,27,4.4,3.89,2018,3.15,IUB,Art & Design,No,1598000,3,300000,No,No
+Male,20,3.15,4.67,2022,3.46,MIST,Health & Medicine,No,935000,2,580000,No,No
+Female,26,3.75,3.33,2018,3.97,DU,Business,No,1520000,3,330000,Yes,Yes
+Male,19,3.67,4.83,2020,3.67,SUST,Programming,No,1400000,3,490000,No,No
+Female,27,4.09,4.33,2022,3.75,KUET,Education & Teaching,No,1215000,2,580000,No,Yes
+Male,23,4.47,4.56,2018,3.89,CU,Humainities,No,1170000,2,375000,No,Yes
+Female,18,4.67,3,2019,3.75,JNU,Education & Teaching,No,1215000,4,220000,Yes,No
+Female,30,4.56,4,2019,3.75,DU,Education & Teaching,No,1215000,4,250000,No,No
+Male,21,4.27,3.97,2019,3.67,EWU,Humainities,Yes,1170000,3,220000,Yes,Yes
+Female,25,3.33,4,2020,3.33,MIST,Business,No,1520000,3,472000,No,No
+Female,21,4.4,3.58,2018,3.4,IUB,Data Science,No,1776000,4,175000,No,No
+Male,24,3.75,4.89,2020,3.27,IUB,Mathematics,Yes,472000,4,490000,No,No
+Male,25,3.27,4.5,2022,3.4,CU,Humainities,Yes,1170000,3,472000,No,No
+Male,24,4.33,3.4,2018,3.46,EWU,Health & Medicine,Yes,935000,3,300000,No,No
+Female,20,4.5,3.46,2022,3.33,RU,Data Science,No,1776000,4,300000,No,No
+Female,18,3.83,3.97,2018,3.75,JU,Data Science,Yes,1776000,2,200000,No,Yes
+Female,27,4.97,4.47,2022,3.83,RU,Education & Teaching,Yes,1215000,2,440000,Yes,Yes
+Male,30,3.83,3.58,2022,3.89,KUET,Business,No,1520000,4,300000,Yes,No
+Female,26,3.46,4.33,2019,3.89,UIU,Health & Medicine,Yes,935000,4,330000,Yes,Yes
+Male,28,3.15,4.56,2021,3.89,SUST,Art & Design,Yes,1598000,2,500000,No,Yes
+Female,24,4.09,3.09,2018,3.27,EWU,Art & Design,No,1598000,2,600000,No,No
+Male,25,3.75,4.89,2022,3.15,KUET,Health & Medicine,Yes,935000,3,200000,No,No
+Female,29,4.83,3.15,2018,4,BracU,Health & Medicine,Yes,935000,4,580000,Yes,Yes
+Female,30,4.97,4.97,2021,4,JNU,Health & Medicine,No,935000,2,220000,Yes,Yes
+Female,24,4.33,3.27,2021,3.15,UIU,Mathematics,No,472000,4,200000,No,No
+Female,23,3.52,3,2022,3.15,AIUB,Mathematics,Yes,472000,2,330000,No,No
+Female,21,3.4,4.33,2022,3.15,BracU,Education & Teaching,No,1215000,2,200000,No,No
+Male,21,4.56,5,2022,3.75,DU,Mathematics,No,472000,2,440000,No,Yes
+Male,28,3.46,4.97,2020,3,DU,Education & Teaching,Yes,1215000,4,330000,No,No
+Female,27,4.15,3.89,2022,3.09,MIST,Health & Medicine,Yes,935000,2,375000,No,No
+Female,19,3.67,3.52,2022,4,RUET,Mathematics,No,472000,3,440000,No,No
+Male,27,4,4.67,2022,3.89,RUET,Art & Design,Yes,1598000,2,440000,No,Yes
+Male,19,3.83,3.09,2020,3.58,IUB,Business,Yes,1520000,4,440000,Yes,No
+Male,23,4.72,3.75,2022,4,BracU,Humainities,No,1170000,2,440000,No,Yes
+Female,28,4.47,3.15,2020,3.89,JNU,Data Science,No,1776000,2,580000,No,Yes
+Female,24,3,4.83,2022,3.58,IUB,Health & Medicine,No,935000,4,530000,Yes,Yes
+Male,18,4.67,4.72,2021,3.09,RUET,Programming,No,1400000,3,200000,No,No
+Female,18,4.89,4.47,2018,4,MIST,Art & Design,No,1598000,4,300000,Yes,Yes
+Female,22,4.5,4.89,2021,3.97,CU,Education & Teaching,Yes,1215000,2,375000,Yes,No
+Female,25,4.15,4.27,2019,3.97,UIU,Programming,No,1400000,4,490000,Yes,No
+Female,19,3.33,4.83,2019,3.67,AIUB,Business,No,1520000,2,440000,No,Yes
+Male,18,4.89,4.56,2022,3.58,NSTU,Education & Teaching,No,1215000,2,500000,Yes,No
+Female,20,4.83,4.27,2021,3.58,AIUB,Humainities,No,1170000,3,300000,Yes,Yes
+Female,27,4.83,3.83,2019,3.97,MIST,Health & Medicine,No,935000,2,490000,Yes,Yes
+Male,30,4.47,4.4,2020,3.46,RU,Health & Medicine,No,935000,4,490000,No,No
+Female,27,4.09,3.75,2019,3.27,SUST,Programming,No,1400000,2,290000,No,No
+Female,27,4.83,4.56,2019,3.75,EWU,Data Science,No,1776000,3,330000,Yes,Yes
+Male,18,3.67,3.97,2021,3.15,JNU,Business,No,1520000,3,490000,No,No
+Female,23,4.97,5,2022,3.75,KUET,Art & Design,No,1598000,4,580000,Yes,Yes
+Female,28,3.15,3.52,2021,3.75,UITS,Humainities,Yes,1170000,2,490000,No,No
+Male,23,4.09,4.47,2018,3.4,BracU,Business,Yes,1520000,2,375000,No,No
+Female,20,4.15,4.67,2019,3,JNU,Mathematics,No,472000,4,175000,No,No
+Female,25,4.97,3.67,2018,3.97,CU,Business,Yes,1520000,2,440000,Yes,Yes
+Female,20,4.4,3.67,2018,3.27,KUET,Education & Teaching,No,1215000,3,200000,No,No
+Female,28,4.47,3.33,2020,3,NSU,Art & Design,Yes,1598000,3,600000,No,No
+Female,23,3.27,3.67,2020,3.83,NSTU,Humainities,Yes,1170000,2,220000,Yes,No
+Female,27,4.09,4.97,2022,3.33,RUET,Art & Design,Yes,1598000,4,290000,No,No
+Female,20,3.97,3.09,2022,3.4,KUET,Art & Design,No,1598000,2,490000,No,No
+Male,20,3.75,3.09,2022,3.27,NSU,Mathematics,No,472000,4,290000,No,No
+Male,25,3.89,3.58,2021,3.33,JU,Education & Teaching,No,1215000,4,175000,No,No
+Male,18,5,3.75,2021,3.75,UITS,Computer Science,No,2429700,3,472000,Yes,Yes
+Female,23,3.09,3.67,2020,3.27,EWU,Business,No,1520000,4,250000,No,No
+Male,30,4.5,3.52,2018,3.67,MIST,Health & Medicine,Yes,935000,2,300000,Yes,Yes
+Female,29,3.75,5,2019,3.4,AIUB,Education & Teaching,No,1215000,3,472000,No,No
+Male,23,3.97,4,2022,3.52,BracU,Data Science,Yes,1776000,3,300000,Yes,Yes
+Female,22,4.5,4.33,2018,3.75,UIU,Business,Yes,1520000,2,220000,No,Yes
+Male,20,3.58,4.47,2020,3.83,EWU,Programming,Yes,1400000,4,300000,Yes,Yes
+Male,22,4.47,4.09,2020,3.52,AIUB,Art & Design,No,1598000,3,375000,Yes,Yes
+Male,25,4.89,4.97,2018,3,UIU,Education & Teaching,Yes,1215000,3,500000,No,No
+Female,23,3.75,3.52,2019,3.89,DU,Education & Teaching,No,1215000,4,250000,Yes,No
+Female,30,4.89,4.72,2022,3.83,NSU,Education & Teaching,No,1215000,2,530000,Yes,Yes
+Male,23,3.46,3.27,2020,3.83,JNU,Health & Medicine,Yes,935000,3,500000,Yes,Yes
+Female,30,3.33,3.09,2020,3.4,RU,Art & Design,Yes,1598000,4,220000,No,No
+Female,22,3.4,3.75,2022,3.27,CU,Education & Teaching,Yes,1215000,2,580000,No,No
+Female,28,4.33,3.97,2020,3.27,CU,Programming,No,1400000,3,400000,No,No
+Female,19,3.83,3.83,2018,3.33,DU,Humainities,Yes,1170000,2,490000,No,No
+Male,28,3.67,4.47,2020,3.97,UITS,Data Science,Yes,1776000,2,500000,Yes,No
+Female,27,4.33,4.27,2019,3.97,RU,Education & Teaching,No,1215000,3,220000,No,No
+Male,29,5,4.83,2019,3.97,RUET,Computer Science,Yes,2429700,2,300000,No,Yes
+Male,20,3.4,4.83,2020,3.4,CU,Business,No,1520000,2,220000,No,No
+Female,26,4.27,3.15,2018,3.52,JNU,Humainities,Yes,1170000,4,200000,No,No
+Male,30,3.83,4.67,2022,3.52,UITS,Humainities,No,1170000,2,400000,Yes,No
+Female,29,4.4,3.67,2019,3.89,RU,Business,Yes,1520000,4,472000,No,Yes
+Female,26,3.4,3.15,2022,3.15,CU,Education & Teaching,No,1215000,4,200000,No,No
+Female,20,3.33,4.09,2022,3.27,RUET,Mathematics,No,472000,2,580000,No,No
+Male,26,4,4.33,2020,3.58,BracU,Mathematics,No,472000,3,500000,No,No
+Male,27,4.33,3.97,2022,3.75,SUST,Health & Medicine,Yes,935000,4,500000,Yes,Yes
+Female,29,4.72,4.15,2019,3.4,CU,Education & Teaching,Yes,1215000,4,330000,No,No
+Male,28,3.52,4.27,2019,3.97,MIST,Education & Teaching,Yes,1215000,3,375000,Yes,No
+Female,30,5,3.27,2020,3.09,NSTU,Health & Medicine,No,935000,4,440000,No,No
+Female,19,4.27,3.46,2019,3.97,RUET,Education & Teaching,Yes,1215000,4,330000,Yes,No
+Female,22,4.27,3.52,2019,4,JNU,Computer Science,Yes,2429700,4,472000,No,Yes
+Male,29,4.5,3.33,2021,3.75,MIST,Mathematics,No,472000,3,530000,No,Yes
+Female,22,4.15,3.52,2021,3.33,CU,Data Science,Yes,1776000,4,580000,No,No
+Female,25,5,4.47,2018,3.27,AIUB,Humainities,No,1170000,4,500000,No,No
+Male,29,3.09,3.33,2022,4,NSTU,Programming,Yes,1400000,3,290000,No,Yes
+Male,27,4.33,3.15,2020,3.58,RUET,Health & Medicine,Yes,935000,2,200000,Yes,Yes
+Female,24,4.72,4.27,2020,3.67,MIST,Art & Design,No,1598000,4,400000,Yes,Yes
+Female,20,4.97,3.33,2019,3.4,NSTU,Computer Science,Yes,2429700,3,330000,No,No
+Male,21,5,3.75,2020,3.89,JNU,Data Science,No,1776000,3,500000,No,Yes
+Female,22,4.33,3.97,2018,3,IUB,Education & Teaching,No,1215000,2,530000,No,No
+Female,24,4.97,3.75,2021,3.15,UIU,Data Science,Yes,1776000,4,500000,No,No
+Female,22,5,4.5,2019,3.89,IUB,Business,Yes,1520000,2,330000,Yes,No
+Female,27,4.4,4.15,2018,3.58,AIUB,Humainities,Yes,1170000,2,600000,No,No
+Female,24,3.52,4.47,2021,3.58,IUB,Education & Teaching,No,1215000,4,400000,Yes,No
+Male,22,5,3.4,2019,3.09,BracU,Humainities,Yes,1170000,2,300000,No,No
+Male,22,4.56,4.5,2018,3.97,JNU,Mathematics,Yes,472000,4,300000,Yes,Yes
+Female,18,4.56,4.97,2020,3.4,DU,Business,No,1520000,3,500000,No,No
+Female,23,3.89,4.56,2019,3.67,EWU,Data Science,No,1776000,4,580000,Yes,No
+Male,23,3.67,4.15,2019,3.67,NSU,Education & Teaching,Yes,1215000,4,472000,Yes,No
+Male,29,4.89,4.72,2022,3.09,JNU,Programming,Yes,1400000,3,472000,No,No
+Male,28,4.97,3.52,2020,3.15,RU,Education & Teaching,Yes,1215000,3,300000,No,No
+Female,27,4.27,3.4,2021,3.27,DU,Health & Medicine,Yes,935000,4,530000,No,No
+Female,20,3.15,4,2021,3.75,NSTU,Humainities,No,1170000,2,440000,No,Yes
+Female,19,3.46,4.15,2019,3.83,EWU,Computer Science,Yes,2429700,2,580000,No,Yes
+Female,30,4.97,4.4,2021,3.33,BracU,Mathematics,No,472000,3,580000,No,No
+Female,24,5,4.5,2018,3.15,NSTU,Data Science,No,1776000,4,330000,No,No
+Male,20,3.83,3.67,2019,3.27,IUB,Computer Science,No,2429700,3,440000,No,No
+Female,27,4.15,4,2021,3.67,DU,Data Science,No,1776000,4,530000,Yes,No
+Male,26,5,4.5,2019,3.52,MIST,Art & Design,No,1598000,4,530000,Yes,Yes
+Female,26,3.75,4.47,2021,3,IUB,Humainities,Yes,1170000,4,300000,No,No
+Male,24,3.52,3.4,2019,3.09,IUB,Humainities,Yes,1170000,2,500000,No,No
+Female,19,3.33,3.33,2019,3.33,JU,Data Science,Yes,1776000,2,580000,No,No
+Male,23,3.75,4.33,2022,3.89,NSTU,Health & Medicine,Yes,935000,2,220000,Yes,Yes
+Male,27,3.09,4.09,2020,3.75,RUET,Health & Medicine,Yes,935000,4,290000,Yes,Yes
+Male,24,3.4,4.27,2020,3.27,AIUB,Health & Medicine,No,935000,4,580000,No,No
+Male,24,3.15,4,2020,4,UIU,Humainities,No,1170000,2,580000,Yes,Yes
+Female,20,3.27,4.83,2019,3.97,JNU,Mathematics,Yes,472000,4,375000,Yes,No
+Female,26,4.15,3.33,2021,3.33,EWU,Health & Medicine,Yes,935000,4,200000,No,No
+Female,28,3.97,4.27,2022,3.67,NSTU,Health & Medicine,No,935000,4,330000,Yes,Yes
+Female,22,4.97,4.97,2020,3.67,DU,Computer Science,Yes,2429700,3,330000,No,No
+Male,25,3.58,3.46,2021,3.67,SUST,Art & Design,Yes,1598000,4,200000,Yes,No
+Male,18,3,3.27,2018,3.4,BracU,Programming,Yes,1400000,3,330000,No,No
+Male,19,3.33,4.56,2018,3.46,AIUB,Health & Medicine,Yes,935000,2,490000,No,No
+Female,28,3.67,3.97,2021,3.27,UIU,Humainities,No,1170000,3,200000,No,No
+Male,28,3.83,4.72,2021,3.97,RU,Health & Medicine,No,935000,3,250000,Yes,Yes
+Female,22,4.72,4.56,2020,3.09,DU,Programming,Yes,1400000,2,440000,No,No
+Female,18,3,4.67,2021,3.09,JU,Computer Science,No,2429700,2,400000,No,No
+Female,19,4.83,3.52,2022,3.46,KUET,Data Science,Yes,1776000,3,600000,No,No
+Male,20,4.27,3.4,2020,3.33,IUB,Computer Science,No,2429700,4,400000,No,No
+Male,26,3.27,3,2020,3.58,CU,Business,No,1520000,3,490000,Yes,No
+Female,29,3.33,3.52,2018,3.67,UIU,Business,No,1520000,2,472000,Yes,No
+Female,18,4.09,4.4,2021,3.27,NSU,Programming,No,1400000,4,375000,No,No
+Female,21,3.52,5,2021,3.83,KUET,Computer Science,No,2429700,2,500000,Yes,No
+Male,30,4.4,3.09,2022,3.52,AIUB,Art & Design,No,1598000,4,290000,No,Yes
+Female,20,4.89,3.46,2019,3.89,SUST,Business,No,1520000,4,490000,Yes,No
+Male,30,4.72,5,2020,3.97,KUET,Humainities,No,1170000,2,600000,Yes,No
+Male,29,4.56,3.58,2021,3.58,MIST,Programming,Yes,1400000,4,472000,No,Yes
+Female,28,4.56,4.15,2022,3.89,UITS,Education & Teaching,No,1215000,2,330000,Yes,Yes
+Male,19,4.33,3.33,2020,3.09,JNU,Art & Design,Yes,1598000,4,300000,No,No
+Male,22,4.97,5,2019,3.15,MIST,Art & Design,No,1598000,2,330000,No,No
+Male,28,3.75,4.67,2018,3.15,RU,Mathematics,No,472000,4,500000,No,No
+Female,29,3.75,3.58,2019,3.09,UIU,Humainities,No,1170000,4,440000,No,No
+Female,20,4.47,4.4,2021,3.46,IUB,Computer Science,No,2429700,3,330000,No,No
+Male,20,3.4,4.27,2021,3.09,MIST,Data Science,No,1776000,2,440000,No,No
+Female,18,3.33,3.58,2021,3.58,RU,Mathematics,No,472000,3,250000,Yes,Yes
+Female,24,4.83,4.5,2020,3.46,UITS,Education & Teaching,Yes,1215000,3,175000,No,No
+Female,22,5,4.47,2018,3,DU,Programming,Yes,1400000,2,290000,No,No
+Female,25,4.5,3.67,2022,3.52,JNU,Humainities,Yes,1170000,4,400000,Yes,Yes
+Female,27,3.83,4.67,2021,3.46,IUB,Programming,Yes,1400000,3,375000,No,No
+Female,28,3.33,4.4,2018,4,UIU,Education & Teaching,Yes,1215000,4,500000,No,Yes
+Female,24,3.52,3.4,2020,3.67,JU,Programming,Yes,1400000,2,290000,Yes,Yes
+Female,24,3.75,3.89,2022,3.67,RUET,Health & Medicine,Yes,935000,4,200000,Yes,Yes
+Female,23,4.89,4.83,2022,3.09,CU,Mathematics,No,472000,4,300000,No,No
+Male,29,3.89,3.46,2019,3.83,RU,Business,Yes,1520000,3,250000,No,Yes
+Male,29,5,3.58,2019,3.09,NSU,Business,Yes,1520000,4,440000,No,No
+Male,28,4,3.75,2019,3.58,KUET,Art & Design,Yes,1598000,2,472000,No,No
+Male,26,4.4,4.72,2019,3.67,CU,Education & Teaching,Yes,1215000,2,300000,Yes,No
+Male,23,3.89,3.67,2021,3.89,MIST,Mathematics,Yes,472000,4,175000,No,Yes
+Male,29,4.83,3.09,2020,3.09,UIU,Data Science,No,1776000,2,375000,No,No
+Male,23,4.09,3.83,2019,3.52,JU,Health & Medicine,Yes,935000,4,200000,Yes,Yes
+Male,28,5,4.72,2022,4,EWU,Data Science,Yes,1776000,3,250000,No,No
+Male,27,4.09,3.15,2018,3.15,KUET,Education & Teaching,No,1215000,3,300000,No,No
+Female,26,4.15,3.27,2021,3.58,NSTU,Humainities,No,1170000,2,200000,No,No
+Female,23,3.83,4.97,2020,3,AIUB,Health & Medicine,Yes,935000,4,300000,No,No
+Male,21,4.33,3.83,2021,3.33,UITS,Business,No,1520000,3,300000,No,No
+Male,19,3.83,4.4,2021,3.89,NSTU,Education & Teaching,No,1215000,3,400000,Yes,No
+Male,29,4.47,4.83,2021,3.33,NSTU,Programming,Yes,1400000,4,580000,No,No
+Female,22,4.09,4.5,2020,3.27,NSTU,Humainities,Yes,1170000,3,200000,No,No
+Female,25,4.56,3.46,2022,3.15,EWU,Computer Science,Yes,2429700,2,490000,No,No
+Male,22,4.67,3.52,2019,3.15,NSTU,Mathematics,Yes,472000,2,580000,No,No
+Female,22,4.89,3.67,2022,3.83,KUET,Mathematics,Yes,472000,2,330000,No,Yes
+Female,25,4.97,4.83,2022,3.09,EWU,Business,Yes,1520000,4,220000,No,No
+Female,23,4.33,3.09,2018,3.97,KUET,Computer Science,Yes,2429700,4,220000,Yes,Yes
+Female,30,4.97,4.33,2018,3.15,UIU,Data Science,Yes,1776000,4,400000,No,No
+Female,18,5,3.27,2021,3.89,DU,Mathematics,Yes,472000,3,440000,No,Yes
+Male,25,4.56,3.52,2022,3.09,SUST,Art & Design,No,1598000,3,290000,No,No
+Male,27,3.15,3.09,2020,3.46,NSU,Humainities,Yes,1170000,4,580000,No,No
+Male,23,4.67,4.15,2019,3.15,EWU,Humainities,No,1170000,4,600000,No,No
+Female,28,3.89,4,2019,3.4,EWU,Humainities,Yes,1170000,2,472000,No,No
+Male,27,3,3.89,2019,3.89,UIU,Humainities,No,1170000,4,472000,No,Yes
+Male,26,4.83,4,2021,3.09,NSU,Mathematics,Yes,472000,2,490000,No,No
+Male,29,5,3.4,2019,3.75,MIST,Art & Design,Yes,1598000,2,375000,No,No
+Female,30,3.09,3.33,2020,3.83,AIUB,Programming,Yes,1400000,2,490000,No,No
+Male,24,3.83,3.46,2018,3.15,KUET,Health & Medicine,No,935000,2,290000,No,No
+Female,20,4.5,3,2021,3.46,UITS,Data Science,Yes,1776000,4,600000,No,No
+Female,30,3.33,4.47,2018,3.67,MIST,Humainities,Yes,1170000,4,220000,Yes,No
+Female,22,4.56,3.97,2022,3.97,IUB,Mathematics,Yes,472000,2,220000,No,No
+Male,21,4.47,4.47,2021,3.27,RU,Computer Science,No,2429700,3,300000,No,No
+Female,18,4.09,4,2022,3.58,RU,Health & Medicine,No,935000,2,175000,Yes,Yes
+Male,24,3.52,4.33,2020,3.97,IUB,Business,No,1520000,3,175000,Yes,Yes
+Male,27,4.33,4.15,2021,3.15,UIU,Data Science,Yes,1776000,2,530000,No,No
+Male,28,4.97,3.83,2022,3.58,MIST,Humainities,No,1170000,3,490000,No,No
+Female,25,5,4,2022,3.09,JU,Computer Science,No,2429700,4,600000,No,No
+Female,27,4.33,3.75,2021,3.67,RU,Computer Science,Yes,2429700,2,290000,Yes,Yes
+Female,28,4.56,4.09,2021,3.83,CU,Art & Design,No,1598000,2,175000,No,Yes
+Male,21,4.72,3.89,2021,3.09,JU,Mathematics,Yes,472000,3,250000,No,No
+Female,19,4.72,5,2018,3.09,BracU,Programming,No,1400000,3,220000,No,No
+Female,27,3,3.46,2020,3.58,UIU,Computer Science,Yes,2429700,3,300000,Yes,No
+Female,23,4.4,3.83,2020,3.46,JNU,Art & Design,Yes,1598000,2,290000,No,No
+Male,30,4,4.72,2018,3.27,BracU,Programming,No,1400000,2,440000,No,No
+Male,21,3.75,3.83,2018,3.52,UITS,Health & Medicine,Yes,935000,2,290000,Yes,Yes
+Female,18,4.4,3.09,2020,3.15,RU,Data Science,Yes,1776000,4,600000,No,No
+Male,23,4.5,4.67,2020,3.15,DU,Health & Medicine,No,935000,4,490000,No,No
+Female,24,4.89,4,2021,3.4,KUET,Programming,No,1400000,4,375000,No,No
+Female,25,3.75,4.56,2022,3.67,UIU,Programming,Yes,1400000,4,472000,No,Yes
+Female,22,4.97,3.4,2019,3.58,AIUB,Data Science,Yes,1776000,4,472000,Yes,Yes
+Female,29,4.89,3.75,2021,3.46,UIU,Business,No,1520000,3,290000,No,No
+Male,24,4.27,3.58,2021,3.67,DU,Computer Science,Yes,2429700,3,490000,No,Yes
+Female,24,4.97,3.4,2019,3.97,MIST,Data Science,Yes,1776000,3,200000,Yes,No
+Male,29,4.5,3.4,2018,3.33,AIUB,Computer Science,No,2429700,4,290000,No,No
+Male,22,3.83,3,2020,3.97,AIUB,Programming,Yes,1400000,4,400000,Yes,No
+Male,21,3.67,4.27,2021,4,NSU,Education & Teaching,No,1215000,3,500000,Yes,No
+Male,27,3.09,4.09,2022,3.58,JNU,Health & Medicine,Yes,935000,2,600000,Yes,Yes
+Female,20,4.15,3.97,2020,3.09,NSU,Art & Design,No,1598000,3,300000,No,No
+Female,29,4.09,4.09,2018,3.33,SUST,Computer Science,No,2429700,3,330000,No,No
+Female,22,3.75,4.72,2019,3.97,IUB,Programming,Yes,1400000,4,290000,Yes,No
+Female,30,4.89,4.56,2020,3.52,RU,Art & Design,Yes,1598000,4,200000,Yes,No
+Male,27,4.4,4.4,2018,3.67,IUB,Data Science,No,1776000,2,600000,No,No
+Male,18,3.52,3.97,2022,3.09,NSU,Computer Science,Yes,2429700,2,440000,No,No
+Male,27,4.4,4.72,2018,3.4,NSU,Mathematics,No,472000,3,220000,No,No
+Female,20,3.58,3.52,2020,4,JU,Programming,Yes,1400000,4,440000,Yes,Yes
+Male,21,3.97,3.67,2018,3.46,KUET,Humainities,No,1170000,4,375000,No,No
+Female,23,4.72,4.33,2021,3.75,AIUB,Art & Design,No,1598000,3,300000,Yes,No
+Male,27,4.15,4.33,2021,3.52,DU,Business,Yes,1520000,3,290000,Yes,Yes
+Female,19,4.72,4.47,2022,3.83,AIUB,Programming,No,1400000,4,400000,Yes,Yes
+Female,19,3.52,3.89,2019,3.27,CU,Education & Teaching,No,1215000,4,400000,No,No
+Male,26,3.15,3.46,2020,3.27,RUET,Education & Teaching,No,1215000,2,580000,No,No
+Male,20,4.33,4.56,2020,3.67,BracU,Mathematics,Yes,472000,3,250000,Yes,Yes
+Female,24,4.67,3.09,2022,3.83,KUET,Education & Teaching,No,1215000,3,300000,No,Yes
+Male,18,4.4,3.75,2018,3.97,KUET,Business,Yes,1520000,3,440000,No,No
+Male,24,4.15,4.83,2020,3.15,BracU,Business,No,1520000,2,290000,No,No
+Female,19,3.75,4.33,2020,3.46,UIU,Programming,Yes,1400000,4,300000,No,No
+Male,26,4,3.15,2021,3.58,IUB,Computer Science,No,2429700,4,300000,Yes,Yes
+Male,18,5,4,2018,3,JNU,Education & Teaching,Yes,1215000,2,300000,No,No
+Male,19,4.47,3.83,2019,3.97,UITS,Education & Teaching,No,1215000,4,300000,Yes,Yes
+Female,30,3.27,3.89,2020,3.4,UIU,Art & Design,Yes,1598000,3,490000,No,No
+Female,20,4.4,4.5,2021,3.33,JU,Health & Medicine,No,935000,3,472000,No,No
+Male,20,4.89,4.4,2018,3.67,BracU,Programming,No,1400000,4,530000,No,No
+Female,26,4.15,3.4,2021,3.67,AIUB,Humainities,Yes,1170000,3,530000,Yes,Yes
+Female,19,3.09,4.67,2019,3,KUET,Humainities,Yes,1170000,3,175000,No,No
+Female,20,3.27,4.15,2019,3.4,JU,Education & Teaching,Yes,1215000,2,300000,No,No
+Male,24,3.33,3.75,2020,3.09,BracU,Education & Teaching,Yes,1215000,2,400000,No,No
+Female,24,4.27,4.83,2022,3.58,JU,Education & Teaching,No,1215000,3,300000,Yes,Yes
+Female,18,3.52,4.27,2019,3.15,RUET,Health & Medicine,No,935000,3,175000,No,No
+Male,26,4.15,4.27,2021,3.97,NSTU,Education & Teaching,Yes,1215000,3,440000,No,No
+Male,24,5,4.33,2019,3.75,SUST,Data Science,Yes,1776000,3,300000,Yes,Yes
+Male,27,4.56,3,2020,3.27,AIUB,Health & Medicine,Yes,935000,3,220000,No,No
+Female,22,3.67,4.33,2021,3.97,UITS,Programming,Yes,1400000,4,300000,Yes,Yes
+Female,25,3.33,3.58,2019,3.75,KUET,Education & Teaching,Yes,1215000,3,200000,No,Yes
+Male,22,4.27,3.67,2021,3.15,UIU,Programming,No,1400000,3,490000,No,No
+Male,25,4.09,4,2020,3.27,AIUB,Business,No,1520000,4,200000,No,No
+Male,27,3.52,4.27,2019,3.09,UIU,Humainities,Yes,1170000,3,600000,No,No
+Male,30,3.52,4,2022,3.97,IUB,Computer Science,No,2429700,2,472000,No,No
+Male,29,4,4.5,2018,3.97,NSTU,Humainities,No,1170000,4,200000,No,No
+Male,21,4.67,4.67,2020,3.52,UITS,Health & Medicine,Yes,935000,2,300000,Yes,Yes
+Female,21,4.89,3,2022,3.75,SUST,Mathematics,No,472000,2,490000,Yes,Yes
+Female,26,4.67,5,2019,3.09,DU,Humainities,Yes,1170000,2,175000,No,No
+Female,22,4.33,3.46,2020,4,UIU,Humainities,No,1170000,3,300000,Yes,Yes
+Male,26,3.52,3.83,2019,3.83,RU,Mathematics,Yes,472000,2,300000,No,No
+Female,24,3,4.83,2019,3.15,CU,Programming,No,1400000,3,175000,No,No
+Female,30,3.75,3.27,2020,3.97,NSU,Health & Medicine,No,935000,2,580000,Yes,Yes
+Female,23,3.67,3.4,2020,3.58,MIST,Data Science,Yes,1776000,2,330000,Yes,Yes
+Male,29,4.56,4.89,2019,3.89,AIUB,Mathematics,Yes,472000,4,375000,Yes,Yes
+Female,23,4.5,4.67,2020,3.97,SUST,Art & Design,No,1598000,2,300000,Yes,Yes
+Male,30,4.89,3.75,2019,3.67,RUET,Art & Design,No,1598000,3,490000,No,Yes
+Male,19,4.27,3.27,2021,3.97,RUET,Education & Teaching,No,1215000,2,440000,Yes,No
+Male,25,4,3.58,2022,4,NSU,Humainities,No,1170000,3,300000,Yes,No
+Female,23,3.27,3.46,2021,3.15,RUET,Data Science,Yes,1776000,2,200000,No,No
+Female,20,3.46,4.09,2019,3.15,BracU,Art & Design,Yes,1598000,4,400000,No,No
+Female,25,3.4,4.33,2021,3.89,UITS,Data Science,Yes,1776000,2,250000,Yes,No
+Female,19,3.27,5,2018,3.09,RUET,Health & Medicine,No,935000,2,600000,No,No
+Female,20,3.52,4.67,2021,3.58,NSU,Education & Teaching,Yes,1215000,4,300000,No,No
+Male,30,3.83,3.52,2021,3.33,BracU,Business,No,1520000,3,330000,No,No
+Male,18,4.67,3.09,2019,3.52,KUET,Computer Science,Yes,2429700,3,175000,Yes,No
+Female,22,5,4.5,2018,3.67,AIUB,Data Science,No,1776000,2,175000,Yes,No
+Female,27,3.09,3.67,2022,3,KUET,Programming,Yes,1400000,3,330000,No,No
+Female,20,4.67,3.75,2021,3.46,MIST,Mathematics,Yes,472000,4,580000,No,No
+Female,26,4.09,4.15,2019,3.52,RUET,Education & Teaching,No,1215000,2,375000,No,No
+Male,27,4.67,4.67,2021,3.09,MIST,Humainities,No,1170000,2,290000,No,No
+Female,19,3.97,4,2022,4,UIU,Data Science,No,1776000,3,600000,Yes,No
+Female,24,3.33,4.5,2019,3.89,AIUB,Business,No,1520000,2,530000,No,Yes
+Female,27,3.52,3.27,2019,4,CU,Data Science,No,1776000,4,472000,Yes,No
+Female,27,3.89,3.75,2018,3.58,UIU,Humainities,No,1170000,3,440000,Yes,No
+Female,28,3.67,4.47,2020,3.52,EWU,Programming,Yes,1400000,3,600000,Yes,Yes
+Male,28,4.09,4,2022,4,SUST,Mathematics,Yes,472000,4,440000,No,Yes
+Female,30,4.5,3.52,2022,3.83,UIU,Mathematics,No,472000,4,440000,No,No
+Female,24,4.47,3.09,2020,3.58,AIUB,Education & Teaching,No,1215000,4,490000,No,No
+Male,25,3.52,4,2021,3.27,UIU,Education & Teaching,Yes,1215000,2,330000,No,No
+Male,22,4.72,4.15,2018,3.97,MIST,Education & Teaching,Yes,1215000,2,300000,No,No
+Male,28,4.97,4.97,2019,3.33,DU,Business,No,1520000,3,300000,No,No
+Female,19,3.15,4.5,2022,3.15,CU,Health & Medicine,Yes,935000,4,330000,No,No
+Male,25,4.83,4.97,2022,3.15,NSTU,Data Science,No,1776000,3,300000,No,No
+Male,18,4.56,3.27,2019,3.89,CU,Health & Medicine,No,935000,2,300000,Yes,Yes
+Female,24,3.58,4.67,2018,3.09,NSU,Health & Medicine,Yes,935000,4,472000,No,No
+Female,27,3.15,4.27,2019,3.89,DU,Programming,No,1400000,3,200000,No,Yes
+Female,22,4.33,3.33,2021,3.33,EWU,Programming,No,1400000,3,200000,No,No
+Male,25,3,4.56,2022,3.52,UITS,Programming,Yes,1400000,2,290000,Yes,Yes
+Female,25,3.97,3.97,2020,3.4,UIU,Humainities,Yes,1170000,2,330000,No,No
+Female,22,4,3.75,2022,3.4,KUET,Humainities,No,1170000,4,600000,No,No
+Male,20,4.15,3.58,2021,3.97,NSU,Humainities,Yes,1170000,3,400000,No,No
+Male,19,3.58,3.33,2019,3.4,UITS,Humainities,No,1170000,2,490000,No,No
+Female,24,3.15,3.83,2019,3.09,BracU,Data Science,Yes,1776000,3,300000,No,No
+Female,23,3.89,3.75,2018,3.52,CU,Mathematics,Yes,472000,3,220000,Yes,No
+Male,24,3.67,4.33,2020,3.09,AIUB,Health & Medicine,Yes,935000,3,250000,No,No
+Female,22,5,4.72,2020,3.83,SUST,Education & Teaching,No,1215000,2,500000,No,No
+Female,18,3.83,4.27,2021,4,RUET,Mathematics,Yes,472000,4,500000,No,Yes
+Female,27,4.15,5,2020,3.52,IUB,Education & Teaching,Yes,1215000,4,300000,Yes,Yes
+Female,29,3,4.56,2021,3.09,MIST,Business,No,1520000,4,490000,No,No
+Male,30,3.75,3.67,2019,3.09,EWU,Data Science,No,1776000,3,472000,No,No
+Female,27,4.15,4.97,2020,3.27,CU,Computer Science,Yes,2429700,2,330000,No,No
+Male,21,3.97,3.58,2021,3.46,NSTU,Art & Design,No,1598000,3,500000,No,No
+Male,27,3.27,4.09,2019,3.4,JU,Programming,Yes,1400000,2,530000,No,No
+Male,26,4.33,4.72,2018,3,JNU,Health & Medicine,Yes,935000,2,250000,No,No
+Male,22,3.89,4.4,2021,3.33,SUST,Programming,No,1400000,2,400000,No,No
+Female,21,3.75,5,2018,3.09,RU,Programming,No,1400000,4,200000,No,No
+Male,21,4.89,4.15,2018,3.27,JNU,Data Science,No,1776000,2,300000,No,No
+Female,23,3.89,3.58,2020,3.4,JNU,Mathematics,Yes,472000,4,300000,No,No
+Male,26,4.83,3.33,2022,3.15,RUET,Humainities,Yes,1170000,3,220000,No,No
+Female,29,4.15,3.46,2018,3.33,MIST,Business,No,1520000,2,472000,No,No
+Male,29,4.5,3.97,2022,3.4,AIUB,Computer Science,Yes,2429700,2,200000,No,No
+Male,27,3.15,4.5,2021,3.27,KUET,Data Science,Yes,1776000,4,580000,No,No
+Female,22,4.97,4.27,2021,3.67,AIUB,Computer Science,No,2429700,3,375000,Yes,Yes
+Male,27,4.72,4.15,2021,4,DU,Mathematics,No,472000,4,200000,Yes,No
+Female,25,4.27,4.09,2020,3.67,SUST,Business,Yes,1520000,4,175000,Yes,Yes
+Male,23,4.27,4.33,2022,3.89,JU,Programming,No,1400000,4,200000,No,No
+Male,22,3.75,3.09,2019,3.15,DU,Data Science,No,1776000,2,600000,No,No
+Male,19,4.15,3.4,2020,4,IUB,Humainities,Yes,1170000,2,330000,Yes,No
+Female,21,4.15,3,2018,3.58,BracU,Art & Design,Yes,1598000,4,490000,Yes,No
+Female,19,4.09,4.15,2019,3.09,SUST,Data Science,Yes,1776000,2,500000,No,No
+Male,23,3.46,3.33,2022,3.27,NSTU,Computer Science,Yes,2429700,2,375000,No,No
+Female,30,3.15,3.83,2021,3.58,SUST,Data Science,No,1776000,4,175000,Yes,Yes
+Female,28,4.4,4.47,2020,3.83,RUET,Education & Teaching,Yes,1215000,2,375000,Yes,No
+Female,23,3.27,3.67,2022,3.09,UIU,Programming,No,1400000,3,472000,No,No
+Male,22,3.75,3.83,2021,3.46,NSTU,Health & Medicine,No,935000,2,530000,No,No
+Female,29,3.83,4.33,2022,3.89,CU,Humainities,Yes,1170000,3,220000,Yes,No
+Male,18,3.09,4.4,2019,3.67,AIUB,Education & Teaching,Yes,1215000,2,300000,No,No
+Female,26,3.15,3.52,2022,3.67,EWU,Art & Design,Yes,1598000,4,250000,No,Yes
+Male,21,3.33,3.09,2019,3.89,IUB,Health & Medicine,Yes,935000,2,472000,Yes,Yes
+Male,30,4.33,3.09,2021,3,AIUB,Computer Science,Yes,2429700,3,400000,No,No
+Female,18,3,3.75,2020,3.09,JNU,Data Science,Yes,1776000,3,490000,No,No
+Male,28,4.5,4.67,2021,3,MIST,Humainities,Yes,1170000,4,300000,No,No
+Female,30,3.89,4.15,2021,3.67,SUST,Programming,Yes,1400000,4,440000,No,Yes
+Female,26,3.46,3.09,2020,3.75,IUB,Business,Yes,1520000,2,250000,Yes,No
+Female,23,4.15,4.83,2018,3.89,NSTU,Mathematics,No,472000,3,290000,No,Yes
+Male,26,5,3.97,2019,3.75,CU,Humainities,No,1170000,2,220000,No,No
+Male,28,3.67,3.09,2018,3.97,RUET,Health & Medicine,Yes,935000,4,530000,Yes,Yes
+Male,23,3.75,4.5,2018,3.83,IUB,Health & Medicine,No,935000,2,250000,Yes,Yes
+Female,23,3.15,3.58,2021,3.89,NSU,Education & Teaching,Yes,1215000,2,600000,No,Yes
+Female,22,4.4,4.89,2020,3.89,UITS,Data Science,Yes,1776000,4,490000,No,No
+Male,19,5,3.89,2022,3.89,RUET,Art & Design,Yes,1598000,2,400000,Yes,Yes
+Male,22,3.58,4.5,2019,3.52,AIUB,Humainities,Yes,1170000,4,220000,No,No
+Male,19,3.15,4.67,2019,4,UITS,Business,No,1520000,4,290000,Yes,Yes
+Male,22,3.46,3.67,2021,3.97,KUET,Computer Science,Yes,2429700,4,400000,Yes,Yes
+Male,24,4.97,3.58,2019,3.09,UITS,Programming,No,1400000,2,400000,No,No
+Male,27,3.97,3.15,2018,3.4,JNU,Art & Design,Yes,1598000,4,400000,No,No
+Female,24,4.33,3.46,2019,3.58,MIST,Mathematics,Yes,472000,2,440000,No,No
+Female,26,3.27,4.15,2019,3.52,NSU,Business,No,1520000,4,200000,No,No
+Female,21,4.33,4.4,2020,4,UIU,Art & Design,Yes,1598000,3,220000,Yes,Yes
+Female,27,3.67,4.67,2019,3.97,NSU,Health & Medicine,No,935000,4,300000,Yes,Yes
+Male,28,4.4,4.72,2021,3.27,BracU,Computer Science,Yes,2429700,3,500000,No,No
+Female,22,4.5,4.15,2019,3.46,BracU,Art & Design,Yes,1598000,2,580000,No,No
+Female,29,4.15,4.72,2020,3.97,MIST,Data Science,No,1776000,3,530000,No,Yes
+Female,26,3.97,4.15,2019,3.83,EWU,Health & Medicine,Yes,935000,4,330000,Yes,Yes
+Female,30,4.09,3.97,2021,3.15,EWU,Art & Design,Yes,1598000,4,300000,No,No
+Male,24,3.52,3.15,2020,3.67,NSU,Education & Teaching,No,1215000,2,400000,No,No
+Female,29,3.67,4.56,2018,3,UITS,Health & Medicine,No,935000,2,490000,No,No
+Female,28,4.15,4.15,2019,3.15,EWU,Business,Yes,1520000,2,490000,No,No
+Female,22,4.4,3.27,2022,3.27,MIST,Data Science,Yes,1776000,2,290000,No,No
+Female,26,4.67,4.67,2021,3.67,SUST,Computer Science,No,2429700,2,400000,Yes,Yes
+Male,20,4.83,3.27,2021,3.52,DU,Mathematics,Yes,472000,3,600000,No,Yes
+Female,19,3.89,3.46,2019,4,BracU,Education & Teaching,No,1215000,2,580000,No,No
+Female,28,4.97,3.4,2020,3.97,NSTU,Data Science,Yes,1776000,4,220000,Yes,Yes
+Male,18,4.67,3.58,2022,3.97,DU,Health & Medicine,No,935000,4,250000,Yes,Yes
+Male,25,4.72,4.15,2021,3.67,BracU,Mathematics,Yes,472000,4,400000,No,Yes
+Female,27,3.33,3.58,2019,3.52,NSU,Health & Medicine,No,935000,2,530000,Yes,Yes
+Female,21,3,3.52,2019,3.97,JU,Mathematics,Yes,472000,2,600000,Yes,Yes
+Female,18,3.52,4.56,2022,3.27,IUB,Mathematics,Yes,472000,2,530000,No,No
+Male,28,4.97,3.33,2021,3.4,DU,Mathematics,No,472000,4,580000,No,No
+Male,29,3.58,3.4,2022,3.33,DU,Art & Design,No,1598000,2,220000,No,No
+Male,19,4.89,3.67,2022,3.52,IUB,Education & Teaching,Yes,1215000,3,600000,Yes,No
+Female,27,3.09,3.58,2018,3.75,CU,Art & Design,No,1598000,3,530000,No,Yes
+Male,18,4.97,4.4,2022,3.33,RUET,Education & Teaching,No,1215000,3,580000,No,No
+Female,22,3.89,3,2018,3.15,EWU,Health & Medicine,No,935000,2,490000,No,No
+Male,22,4.47,3.75,2021,3.52,UIU,Data Science,Yes,1776000,4,220000,No,Yes
+Female,23,3.52,4.09,2021,3.46,KUET,Computer Science,No,2429700,3,500000,No,No
+Female,26,4.09,4.33,2021,3.58,AIUB,Data Science,Yes,1776000,3,290000,No,Yes
+Male,21,3.67,3.97,2022,3.46,UIU,Computer Science,No,2429700,3,300000,No,No
+Female,27,3.52,4.97,2018,3.27,NSU,Business,Yes,1520000,2,600000,No,No
+Male,22,4.09,3.97,2019,3,BracU,Mathematics,Yes,472000,4,530000,No,No
+Male,24,3.33,3,2018,3.97,RU,Data Science,No,1776000,4,300000,No,No
+Female,24,4.56,3.97,2019,3.52,IUB,Humainities,Yes,1170000,2,175000,Yes,No
+Male,22,5,4.97,2019,3.15,IUB,Education & Teaching,No,1215000,2,250000,No,No
+Male,27,3.4,3.83,2021,3.67,EWU,Education & Teaching,Yes,1215000,3,440000,No,No
+Female,26,3.4,4.5,2022,3.15,EWU,Mathematics,Yes,472000,3,400000,No,No
+Female,18,3.75,3.97,2019,3.67,CU,Data Science,Yes,1776000,2,600000,Yes,Yes
+Female,27,4.27,3.97,2018,3.67,RUET,Programming,Yes,1400000,4,440000,Yes,Yes
+Male,19,3.46,3.67,2021,3.27,SUST,Data Science,Yes,1776000,3,580000,No,No
+Female,29,4.09,4.72,2022,3.4,CU,Health & Medicine,Yes,935000,3,500000,No,No
+Male,19,3,3.33,2018,3.15,UIU,Health & Medicine,No,935000,4,330000,No,No
+Male,26,3.4,4.33,2021,3.27,RUET,Mathematics,Yes,472000,3,300000,No,No
+Male,29,3.33,3.33,2021,3.46,UIU,Mathematics,No,472000,2,375000,No,No
+Male,19,4.56,3.33,2020,3.4,BracU,Art & Design,No,1598000,3,490000,No,No
+Male,22,4.4,3.67,2020,3.58,IUB,Art & Design,Yes,1598000,4,175000,Yes,Yes
+Male,24,3.52,4.5,2019,3.52,JU,Health & Medicine,No,935000,2,490000,Yes,Yes
+Male,20,3.4,4.47,2019,3.27,KUET,Programming,No,1400000,2,375000,No,No
+Female,26,3.83,3.89,2020,3,NSTU,Business,Yes,1520000,2,580000,No,No
+Male,27,4.15,4.4,2019,3.4,SUST,Data Science,Yes,1776000,2,250000,No,No
+Male,20,3.67,4.72,2021,3.67,EWU,Computer Science,No,2429700,4,400000,Yes,Yes
+Male,29,4.4,3.89,2021,3.52,KUET,Humainities,Yes,1170000,2,400000,No,No
+Male,26,3.46,4.4,2018,3.4,NSU,Health & Medicine,Yes,935000,3,472000,No,No
+Male,20,3.83,4.33,2020,3.89,SUST,Education & Teaching,No,1215000,3,490000,Yes,No
+Male,30,4.89,4.47,2019,3.27,NSTU,Programming,Yes,1400000,2,290000,No,No
+Male,21,3.52,3.75,2022,3.4,BracU,Health & Medicine,No,935000,3,490000,No,No
+Female,21,3.67,3,2019,3.27,CU,Art & Design,Yes,1598000,4,250000,No,No
+Female,18,4.56,4.09,2021,4,NSU,Mathematics,No,472000,4,500000,No,No
+Male,25,3.83,3,2018,3.4,EWU,Programming,Yes,1400000,4,440000,No,No
+Male,19,4.89,3.46,2020,3.46,JNU,Mathematics,Yes,472000,3,290000,No,No
+Male,20,3.4,4.67,2019,3.52,RU,Programming,No,1400000,4,200000,Yes,Yes
+Female,30,4.5,3.83,2018,3,UITS,Education & Teaching,No,1215000,3,400000,No,No
+Male,29,3.27,3.09,2019,3.83,RUET,Mathematics,Yes,472000,3,300000,Yes,No
+Male,30,4.09,4.5,2021,3.83,JNU,Humainities,No,1170000,2,250000,No,Yes
+Male,30,4.72,4.97,2019,3.75,IUB,Programming,Yes,1400000,4,300000,No,No
+Female,19,4.5,5,2021,3.75,DU,Health & Medicine,No,935000,4,300000,Yes,Yes
+Female,21,4.09,3.75,2019,3.27,UIU,Mathematics,Yes,472000,3,300000,No,No
+Male,19,4.15,3.83,2022,3.15,NSTU,Mathematics,Yes,472000,3,200000,No,No
+Male,28,4.47,4.5,2021,3.75,UIU,Mathematics,Yes,472000,4,500000,No,Yes
+Female,24,4.56,4.89,2020,3.58,JNU,Art & Design,No,1598000,2,250000,No,No
+Female,29,4.83,3.58,2022,3.46,KUET,Business,No,1520000,4,200000,No,No
+Male,18,3.4,3.4,2022,3.83,KUET,Data Science,Yes,1776000,3,300000,Yes,No
+Female,23,3.67,4.89,2021,3.75,KUET,Art & Design,Yes,1598000,3,330000,No,No
+Female,26,3.89,3.89,2019,3,UITS,Data Science,No,1776000,3,200000,No,No
+Female,20,3,4.47,2020,3.97,KUET,Data Science,No,1776000,3,300000,No,Yes
+Female,19,3.46,4.4,2019,3.75,AIUB,Art & Design,Yes,1598000,2,220000,No,No
+Male,30,3.52,3.67,2020,3.89,NSU,Computer Science,Yes,2429700,4,500000,No,No
+Male,21,4,3.27,2021,3.15,MIST,Art & Design,No,1598000,2,472000,No,No
+Male,27,4.83,4.67,2018,3.58,AIUB,Education & Teaching,Yes,1215000,3,250000,No,No
+Male,22,3.97,4.15,2019,3,SUST,Education & Teaching,Yes,1215000,3,250000,No,No
+Female,28,4.09,4,2018,3.27,EWU,Computer Science,No,2429700,3,300000,No,No
+Female,24,4.33,4.72,2020,3.58,AIUB,Data Science,No,1776000,3,290000,Yes,Yes
+Male,23,4.67,3.27,2019,3.46,AIUB,Business,Yes,1520000,4,600000,No,No
+Male,26,4.27,3.15,2022,3.67,EWU,Humainities,No,1170000,3,472000,No,Yes
+Female,28,3.58,3.97,2020,3.75,UIU,Business,Yes,1520000,3,500000,No,No
+Female,29,4.67,3.4,2019,3.83,EWU,Humainities,Yes,1170000,2,490000,Yes,Yes
+Female,30,3.97,4.15,2020,3.09,CU,Humainities,Yes,1170000,3,300000,No,No
+Male,21,4.72,3.27,2020,3,IUB,Mathematics,Yes,472000,2,220000,No,No
+Male,21,3,4.47,2019,3.15,NSTU,Computer Science,Yes,2429700,4,220000,No,No
+Male,30,3.27,4.56,2021,3.58,IUB,Programming,No,1400000,2,300000,No,Yes
+Female,20,4.56,3.09,2021,3.67,CU,Mathematics,Yes,472000,4,580000,No,Yes
+Female,30,4.47,4.47,2019,3.97,UIU,Computer Science,No,2429700,2,500000,Yes,No
+Female,27,4.09,3.46,2022,3.52,UITS,Mathematics,Yes,472000,2,250000,No,No
+Female,21,4.67,4.27,2020,4,EWU,Art & Design,Yes,1598000,4,500000,Yes,No
+Female,23,3.46,4.27,2018,3.09,KUET,Art & Design,Yes,1598000,2,500000,No,No
+Female,22,4.67,4.97,2020,3.27,RUET,Education & Teaching,No,1215000,3,500000,No,No
+Female,23,3.33,3.89,2018,3.83,UITS,Data Science,No,1776000,4,175000,Yes,No
+Female,23,4.97,4.5,2018,3.15,CU,Education & Teaching,Yes,1215000,4,220000,No,No
+Female,18,3.4,3.67,2021,3.58,DU,Mathematics,No,472000,4,490000,No,Yes
+Female,19,4.89,3.75,2020,3.89,IUB,Health & Medicine,Yes,935000,2,290000,Yes,Yes
+Male,28,4.27,3.89,2022,3,RUET,Health & Medicine,Yes,935000,4,472000,No,No
+Male,19,4.72,3.33,2020,3.52,DU,Health & Medicine,No,935000,3,220000,Yes,Yes
+Female,27,4.56,4.83,2020,3.75,JNU,Education & Teaching,Yes,1215000,3,330000,Yes,No
+Female,26,4.33,4.15,2020,4,UIU,Mathematics,Yes,472000,2,500000,No,Yes
+Female,21,4.5,5,2022,3.83,NSTU,Data Science,No,1776000,3,200000,Yes,No
+Female,23,4.89,4.47,2019,3.97,CU,Education & Teaching,No,1215000,3,250000,No,No
+Female,26,3,3.58,2020,3.33,RU,Programming,No,1400000,3,500000,No,No
+Male,29,4.09,4.47,2021,3.67,BracU,Mathematics,No,472000,3,472000,No,Yes
+Male,28,4.4,4.56,2020,3.15,AIUB,Programming,Yes,1400000,3,490000,No,No
+Male,18,5,3,2021,4,EWU,Computer Science,No,2429700,2,220000,No,Yes
+Male,29,3.83,3.97,2020,3.67,EWU,Humainities,No,1170000,2,290000,Yes,Yes
+Female,26,4.33,4.15,2022,4,EWU,Programming,Yes,1400000,4,580000,No,Yes
+Male,28,4,4.56,2020,4,AIUB,Mathematics,No,472000,4,300000,Yes,Yes
+Female,29,4.15,3.33,2021,3.4,EWU,Humainities,Yes,1170000,2,250000,No,No
+Male,25,3.58,4.4,2020,3.89,JU,Data Science,Yes,1776000,3,330000,Yes,Yes
+Female,25,4.56,3.4,2021,3.15,CU,Data Science,No,1776000,2,375000,No,No
+Male,24,4.27,4,2021,3.33,NSU,Computer Science,Yes,2429700,3,300000,No,No
+Male,19,3.46,3.83,2021,3.27,RUET,Business,Yes,1520000,2,530000,No,No
+Male,29,3.97,3.58,2022,3.4,AIUB,Humainities,Yes,1170000,2,600000,No,No
+Male,30,4.27,4,2018,3.4,BracU,Programming,No,1400000,4,300000,No,No
+Male,26,4.67,3.58,2020,3.15,JU,Data Science,Yes,1776000,2,472000,No,No
+Female,25,3.75,3.4,2018,3.89,KUET,Health & Medicine,Yes,935000,4,250000,Yes,Yes
+Male,29,3.27,4.56,2022,3.27,BracU,Humainities,Yes,1170000,3,220000,No,No
+Male,29,3.52,3.83,2020,3,UIU,Programming,Yes,1400000,4,490000,No,No
+Male,21,3.75,4.33,2018,3.97,RUET,Business,Yes,1520000,3,175000,Yes,No
+Male,28,4,4.5,2019,3.52,SUST,Programming,Yes,1400000,4,490000,Yes,Yes
+Female,29,3.4,4.47,2021,3.09,JU,Computer Science,Yes,2429700,4,200000,No,No
+Female,20,4.09,4.09,2021,4,RU,Art & Design,Yes,1598000,4,250000,No,Yes
+Male,25,4.5,5,2019,3.09,KUET,Programming,Yes,1400000,3,440000,No,No
+Female,23,3.89,4.15,2022,3.52,NSTU,Health & Medicine,Yes,935000,4,175000,Yes,Yes
+Male,18,3.83,3,2021,3.52,JU,Health & Medicine,Yes,935000,4,250000,Yes,Yes
+Female,29,4.72,4.27,2018,3.83,JNU,Business,No,1520000,3,220000,No,Yes
+Female,30,3.46,3.58,2021,3.97,UIU,Programming,Yes,1400000,4,330000,No,No
+Male,27,3.4,3.83,2019,3.4,UIU,Humainities,No,1170000,3,175000,No,No
+Male,26,4,3.33,2018,3.67,BracU,Mathematics,Yes,472000,3,580000,No,Yes
+Male,18,3.09,4.27,2022,3.89,AIUB,Art & Design,Yes,1598000,3,500000,No,No
+Male,25,4.72,4.89,2019,3.15,MIST,Mathematics,No,472000,4,250000,No,No
+Male,20,3.89,3.67,2022,3.58,JU,Art & Design,No,1598000,3,600000,Yes,No
+Male,20,3.83,3.15,2019,3.27,NSTU,Mathematics,No,472000,3,290000,No,No
+Male,23,5,4.33,2021,3.4,BracU,Programming,No,1400000,3,500000,No,No
+Male,21,4.56,3.46,2020,3.46,NSTU,Art & Design,Yes,1598000,2,200000,No,No
+Male,18,3.58,4.56,2022,4,MIST,Programming,No,1400000,4,330000,No,Yes
+Male,22,4.5,4,2020,3.4,DU,Data Science,No,1776000,2,530000,No,No
+Female,19,4.97,3.09,2018,3.67,JU,Art & Design,Yes,1598000,2,290000,No,No
+Male,30,4.15,4.97,2019,3.58,JU,Programming,No,1400000,3,330000,No,Yes
+Male,28,4.56,3.15,2021,4,AIUB,Programming,Yes,1400000,3,200000,No,No
+Male,26,3.83,3.27,2022,3.09,IUB,Education & Teaching,Yes,1215000,2,490000,No,No
+Male,21,3.83,5,2021,3.67,EWU,Health & Medicine,Yes,935000,3,472000,Yes,Yes
+Female,30,4.97,3.15,2019,3.89,NSU,Health & Medicine,No,935000,3,290000,Yes,Yes
+Female,22,3.58,4.4,2019,3.27,EWU,Art & Design,No,1598000,3,500000,No,No
+Female,21,3.75,4.47,2019,3,JNU,Education & Teaching,Yes,1215000,3,300000,No,No
+Male,29,4.67,3,2019,3.09,SUST,Art & Design,No,1598000,2,600000,No,No
+Female,22,4.89,4.15,2020,3.97,AIUB,Education & Teaching,No,1215000,2,375000,No,No
+Female,29,4.27,4.15,2022,3.97,AIUB,Education & Teaching,No,1215000,4,472000,No,Yes
+Female,20,4.47,4.27,2019,3,IUB,Computer Science,No,2429700,3,490000,No,No
+Male,23,4.09,4.15,2022,3.67,RU,Health & Medicine,Yes,935000,4,300000,Yes,Yes
+Male,19,4.72,4.27,2022,3.15,BracU,Health & Medicine,Yes,935000,4,330000,No,No
+Female,29,3.4,4.97,2021,3.58,DU,Mathematics,No,472000,3,500000,No,Yes
+Female,27,4.97,4.89,2022,3.09,UIU,Business,Yes,1520000,2,300000,No,No
+Female,27,3.75,4.5,2022,3.27,DU,Health & Medicine,Yes,935000,2,580000,No,No
+Female,25,4.83,3.27,2022,3.83,SUST,Computer Science,No,2429700,4,220000,Yes,No
+Male,25,3.09,4.56,2021,3.33,UITS,Business,Yes,1520000,3,300000,No,No
+Male,29,4.47,3.97,2022,3.09,IUB,Humainities,No,1170000,2,375000,No,No
+Female,21,3.97,5,2022,3.97,BracU,Art & Design,No,1598000,4,472000,No,No
+Female,27,4.72,4.27,2018,3.58,RU,Art & Design,Yes,1598000,3,290000,Yes,No
+Female,21,3.67,4.4,2021,3.58,DU,Business,No,1520000,4,330000,No,No
+Female,29,3,4.47,2019,4,AIUB,Education & Teaching,No,1215000,2,500000,Yes,No
+Female,24,4.56,4.09,2018,3,AIUB,Programming,Yes,1400000,3,600000,No,No
+Female,28,4.4,4.33,2019,3.27,KUET,Programming,No,1400000,4,580000,No,No
+Female,29,3,3.97,2019,3.83,KUET,Art & Design,Yes,1598000,4,220000,No,No
+Male,18,3.97,3.97,2020,3.09,EWU,Education & Teaching,Yes,1215000,3,580000,No,No
+Female,26,3.4,4.33,2022,3.4,EWU,Business,No,1520000,2,290000,No,No
+Female,19,5,3.27,2021,3.46,AIUB,Computer Science,No,2429700,2,330000,No,No
+Male,24,3,3.58,2022,3.58,UIU,Art & Design,No,1598000,2,290000,No,Yes
+Male,18,3.4,3.27,2020,3.83,JU,Humainities,Yes,1170000,3,175000,Yes,No
+Male,30,3.09,3.4,2020,3.09,CU,Education & Teaching,Yes,1215000,4,490000,No,No
+Male,23,4.97,3.46,2020,3.15,JU,Mathematics,No,472000,3,250000,No,No
+Male,29,4.27,3.46,2022,3.97,UITS,Mathematics,No,472000,4,580000,Yes,Yes
+Male,20,4,3.97,2018,3.75,NSU,Health & Medicine,Yes,935000,4,440000,Yes,Yes
+Male,18,3.83,4.83,2019,3.4,NSU,Data Science,No,1776000,4,330000,No,No
+Male,30,3.15,3.67,2020,3.4,UIU,Business,Yes,1520000,4,440000,No,No
+Female,23,3.33,4.67,2020,3.67,NSTU,Data Science,Yes,1776000,4,290000,No,No
+Male,25,4.15,4.89,2022,3.4,KUET,Programming,No,1400000,2,330000,No,No
+Female,21,4.67,3.58,2018,3.67,IUB,Health & Medicine,Yes,935000,3,300000,Yes,Yes
+Female,28,3,5,2021,3.97,RU,Mathematics,Yes,472000,2,200000,No,Yes
+Female,23,4.33,4.72,2019,3.89,SUST,Data Science,Yes,1776000,4,330000,No,Yes
+Female,24,3.15,3.89,2018,3.75,SUST,Computer Science,Yes,2429700,4,600000,No,Yes
+Male,21,3.58,5,2018,3.75,KUET,Humainities,Yes,1170000,4,530000,No,No
+Female,29,3,4.27,2018,3.15,KUET,Business,Yes,1520000,4,500000,No,No
+Male,22,3.58,4.09,2022,3.15,NSU,Mathematics,No,472000,2,220000,No,No
+Female,20,4.15,4.47,2019,3.27,RUET,Health & Medicine,No,935000,4,290000,No,No
+Male,29,4.33,3.97,2019,3.75,CU,Health & Medicine,No,935000,3,400000,Yes,Yes
+Male,21,3.89,4.89,2019,3.33,JNU,Programming,No,1400000,3,530000,No,No
+Male,27,3.58,4.83,2020,3.27,NSTU,Computer Science,No,2429700,2,300000,No,No
+Male,24,4.47,3.09,2019,3.4,BracU,Art & Design,Yes,1598000,4,220000,No,No
+Male,23,3.09,4.33,2018,4,JU,Health & Medicine,No,935000,4,250000,Yes,Yes
+Female,25,3.89,4.83,2019,3.58,IUB,Data Science,Yes,1776000,4,330000,Yes,Yes
+Male,22,3.58,4.5,2018,3.97,JNU,Mathematics,No,472000,4,220000,Yes,Yes
+Male,21,3.67,3,2021,3.75,BracU,Data Science,No,1776000,4,472000,Yes,Yes
+Male,30,5,3.4,2019,3.89,MIST,Business,No,1520000,3,220000,No,Yes
+Female,21,4.56,4.83,2019,4,KUET,Health & Medicine,Yes,935000,2,220000,Yes,Yes
+Female,22,4.56,4.89,2019,3.27,IUB,Data Science,Yes,1776000,2,290000,No,No
+Female,25,3.15,4.09,2018,3.09,KUET,Education & Teaching,Yes,1215000,4,600000,No,No
+Male,25,3.97,3,2018,3,CU,Art & Design,No,1598000,4,472000,No,No
+Male,29,3,4.83,2018,3.46,SUST,Data Science,Yes,1776000,3,220000,No,No
+Female,23,4,3.83,2022,3.89,EWU,Business,No,1520000,2,330000,Yes,No
+Female,20,4.97,4.47,2020,3.09,AIUB,Health & Medicine,No,935000,4,330000,No,No
+Female,24,3.67,4.67,2018,3.75,AIUB,Programming,No,1400000,4,290000,No,Yes
+Male,29,4.56,4.47,2018,3.67,NSTU,Mathematics,Yes,472000,3,400000,Yes,Yes
+Male,22,4.67,3.89,2021,3.83,JNU,Education & Teaching,No,1215000,3,330000,Yes,Yes
+Female,30,3.52,3,2021,3.89,UIU,Business,No,1520000,3,330000,No,No
+Female,29,4.27,4.56,2020,3.33,JU,Business,No,1520000,2,300000,No,No
+Male,20,4.67,4.5,2019,3.58,RUET,Mathematics,Yes,472000,2,290000,No,Yes
+Female,27,3.33,3.52,2020,3,IUB,Data Science,No,1776000,4,290000,No,No
+Male,23,5,4,2020,3.67,IUB,Health & Medicine,No,935000,4,375000,Yes,Yes
+Male,30,4.83,3.27,2019,3.27,AIUB,Data Science,Yes,1776000,3,375000,No,No
+Male,18,4.89,3.46,2021,3.52,UITS,Programming,Yes,1400000,2,200000,No,No
+Male,24,4.15,4.27,2022,3,MIST,Health & Medicine,No,935000,3,200000,No,No
+Male,27,3.4,4.89,2020,3.83,UITS,Computer Science,Yes,2429700,3,440000,Yes,No
+Male,20,4.09,5,2021,3.4,SUST,Data Science,No,1776000,3,250000,No,No
+Male,25,3.83,4.4,2019,3.67,EWU,Health & Medicine,No,935000,3,530000,Yes,Yes
+Female,30,4.83,4,2022,3.67,NSU,Computer Science,No,2429700,4,175000,No,No
+Female,27,4.72,3.4,2019,4,MIST,Computer Science,Yes,2429700,4,375000,No,No
+Female,20,3.58,3.83,2022,4,KUET,Art & Design,Yes,1598000,3,300000,Yes,No
+Female,21,4.72,4.89,2021,3.27,AIUB,Humainities,Yes,1170000,4,530000,No,No
+Male,20,3.33,3.89,2020,3.46,AIUB,Data Science,Yes,1776000,4,300000,No,No
+Female,24,3.67,3.97,2022,3.33,RUET,Programming,No,1400000,4,580000,No,No
+Male,30,3.27,4.83,2022,4,DU,Mathematics,Yes,472000,2,175000,No,No
+Female,25,4.5,3.52,2021,3.75,BracU,Education & Teaching,Yes,1215000,3,600000,No,Yes
+Female,30,3.09,3.33,2021,3.4,UIU,Health & Medicine,No,935000,2,300000,No,No
+Male,21,3.83,3.97,2019,3.46,UIU,Programming,No,1400000,3,220000,No,No
+Male,20,4.67,4.83,2021,3.15,CU,Health & Medicine,No,935000,3,600000,No,No
+Female,18,3.52,3.33,2018,3.83,AIUB,Art & Design,No,1598000,3,175000,No,Yes
+Male,24,4.89,4.89,2021,3.4,JNU,Mathematics,Yes,472000,2,220000,No,No
+Male,23,4.72,3.4,2018,3.52,DU,Business,Yes,1520000,2,220000,Yes,No
+Male,30,5,3.52,2020,3.52,JNU,Computer Science,No,2429700,4,490000,Yes,No
+Male,29,3.4,3.52,2021,3.15,KUET,Computer Science,Yes,2429700,4,472000,No,No
+Male,19,4.09,4.27,2020,3.27,JNU,Computer Science,No,2429700,2,250000,No,No
+Male,19,4.27,3.75,2021,3.75,CU,Programming,No,1400000,2,500000,No,No
+Female,22,4.83,3,2019,3.46,RU,Education & Teaching,No,1215000,4,330000,No,No
+Female,29,4.83,4.5,2019,3.4,NSTU,Health & Medicine,Yes,935000,4,400000,No,No
+Female,30,3.58,3.89,2022,3.83,RU,Data Science,Yes,1776000,2,530000,Yes,Yes
+Female,29,4.89,3.27,2020,3.15,UITS,Programming,Yes,1400000,4,530000,No,No
+Male,18,3.97,3.09,2019,3.52,UITS,Mathematics,Yes,472000,2,530000,No,Yes
+Female,22,4.15,3.52,2021,3.4,UIU,Art & Design,Yes,1598000,4,300000,No,No
+Male,19,4.4,3.46,2022,3.83,SUST,Art & Design,Yes,1598000,3,375000,Yes,Yes
+Female,21,3.67,4.72,2019,3.58,EWU,Art & Design,Yes,1598000,4,300000,Yes,Yes
+Male,25,3.09,4.33,2021,3.4,RUET,Mathematics,Yes,472000,2,490000,No,No
+Female,29,3.33,4.15,2021,3.33,UIU,Mathematics,No,472000,2,175000,No,No
+Female,25,4.4,4.97,2022,3,IUB,Business,Yes,1520000,4,375000,No,No
+Female,28,4.09,3.97,2022,3.4,JNU,Business,No,1520000,4,250000,No,No
+Female,19,4.27,3.75,2018,3,MIST,Health & Medicine,Yes,935000,2,290000,No,No
+Male,26,3.52,4.89,2019,3.09,BracU,Health & Medicine,No,935000,3,375000,No,No
+Female,28,4.89,4,2019,3.67,UITS,Data Science,Yes,1776000,4,220000,Yes,No
+Female,20,4.5,3.97,2022,4,BracU,Education & Teaching,Yes,1215000,4,400000,No,Yes
+Female,24,4.67,4.4,2019,3.89,RUET,Business,Yes,1520000,3,440000,Yes,No
+Female,24,4.4,4.47,2021,3.09,RU,Data Science,No,1776000,3,375000,No,No
+Female,21,3.75,3,2021,3,SUST,Mathematics,No,472000,2,472000,No,No
+Male,20,3.4,3.83,2020,3.83,DU,Health & Medicine,No,935000,3,580000,Yes,Yes
+Female,30,4.47,4.89,2020,3.52,NSTU,Business,Yes,1520000,4,175000,Yes,No
+Male,19,4.67,3.75,2019,4,BracU,Art & Design,Yes,1598000,4,300000,Yes,Yes
+Female,20,4.27,3.97,2021,3.33,UITS,Business,Yes,1520000,2,400000,No,No
+Female,18,3.33,4.5,2019,3.67,UIU,Business,Yes,1520000,4,500000,Yes,Yes
+Female,21,3.46,4.83,2021,3.33,RUET,Data Science,No,1776000,4,300000,No,No
+Male,20,3.83,3.27,2020,3.58,CU,Business,Yes,1520000,2,600000,No,Yes
+Female,21,3.75,4.97,2021,3.75,AIUB,Health & Medicine,No,935000,3,530000,Yes,Yes
+Female,19,3.27,4.56,2018,3.52,EWU,Health & Medicine,No,935000,2,250000,Yes,Yes
+Male,22,4.67,4.4,2022,3.67,NSU,Data Science,No,1776000,4,580000,No,No
+Female,25,5,3.52,2020,3.97,JNU,Education & Teaching,No,1215000,4,600000,Yes,No
+Female,29,4.56,3.52,2020,3.46,UITS,Data Science,No,1776000,4,300000,No,No
+Female,24,5,3.4,2018,3.89,RU,Art & Design,Yes,1598000,4,472000,Yes,No
+Male,21,3.75,4.5,2022,4,NSU,Art & Design,No,1598000,4,300000,Yes,No
+Male,20,3.83,4.33,2022,3,BracU,Education & Teaching,Yes,1215000,2,300000,No,No
+Male,21,5,5,2022,3.09,DU,Education & Teaching,Yes,1215000,4,330000,No,No
+Female,20,5,4,2019,3.15,EWU,Education & Teaching,No,1215000,3,290000,No,No
+Male,24,4.09,3.97,2021,3.46,DU,Education & Teaching,No,1215000,2,580000,No,No
+Male,18,4.47,3.09,2018,3.67,MIST,Data Science,No,1776000,2,600000,No,Yes
+Female,28,4.4,3.75,2019,3.97,DU,Programming,No,1400000,3,300000,No,No
+Female,23,3.33,4,2020,3.4,SUST,Humainities,Yes,1170000,2,500000,No,No
+Male,28,4.67,5,2018,3.67,IUB,Mathematics,No,472000,4,290000,Yes,No
+Female,30,3.89,4.83,2020,3.89,AIUB,Health & Medicine,Yes,935000,2,300000,Yes,Yes
+Male,21,3.97,3.4,2020,3.09,JU,Programming,No,1400000,4,472000,No,No
+Female,22,3.27,4.15,2021,3.97,KUET,Health & Medicine,No,935000,2,375000,Yes,Yes
+Female,20,4.09,4.09,2018,3.46,NSU,Data Science,Yes,1776000,2,440000,No,No
+Female,24,3.52,3.52,2019,3.97,KUET,Art & Design,Yes,1598000,2,490000,No,Yes
+Male,29,3.15,4.72,2020,3.09,UITS,Business,No,1520000,2,290000,No,No
+Male,26,3.75,3.89,2021,3.15,KUET,Data Science,No,1776000,2,290000,No,No
+Female,23,3.27,3.15,2022,3,AIUB,Computer Science,Yes,2429700,3,600000,No,No
+Male,18,3.97,4.15,2018,3.46,RUET,Health & Medicine,Yes,935000,2,530000,No,No
+Male,30,4.27,3.33,2021,3.4,NSU,Computer Science,No,2429700,3,472000,No,No
+Male,27,4.33,4.89,2019,3.52,RU,Business,No,1520000,4,440000,No,Yes
+Female,23,4.5,5,2020,3.67,AIUB,Programming,No,1400000,3,300000,No,No
+Female,23,4.5,4.5,2021,3.33,IUB,Humainities,Yes,1170000,2,440000,No,No
+Female,28,3.67,3.89,2022,3.09,SUST,Business,Yes,1520000,4,440000,No,No
+Female,23,3.83,4.47,2019,3.15,NSU,Humainities,Yes,1170000,4,440000,No,No
+Female,19,4.72,3.15,2019,3.75,CU,Art & Design,No,1598000,2,175000,Yes,No
+Female,30,3.33,3.89,2022,3.09,BracU,Humainities,No,1170000,2,330000,No,No
+Female,28,4.67,3.33,2021,3.46,JU,Business,No,1520000,4,200000,No,No
+Female,24,4.89,3.52,2021,3.97,UITS,Education & Teaching,No,1215000,4,500000,Yes,Yes
+Male,20,4.4,3.46,2021,3.33,UITS,Art & Design,No,1598000,4,375000,No,No
+Female,22,3.46,4.09,2021,3.75,KUET,Mathematics,No,472000,4,500000,Yes,No
+Female,22,4.89,5,2022,3.89,EWU,Education & Teaching,Yes,1215000,4,330000,No,Yes
+Female,28,4.97,4.89,2020,3.89,DU,Education & Teaching,Yes,1215000,2,300000,No,No
+Female,26,4.97,3.15,2020,3.89,CU,Programming,No,1400000,2,530000,No,No
+Female,20,3.52,4,2022,3.33,KUET,Humainities,Yes,1170000,2,500000,No,No
+Female,29,3.89,4.09,2021,3.52,RU,Computer Science,No,2429700,3,175000,No,No
+Male,20,3.33,3.89,2022,3.67,KUET,Mathematics,No,472000,2,600000,No,Yes
+Female,26,3.09,4.33,2021,3.15,SUST,Data Science,No,1776000,4,472000,No,No
+Male,28,4.4,3.97,2020,3.15,RUET,Mathematics,Yes,472000,4,290000,No,No
+Female,21,3.33,4.47,2019,3.58,EWU,Data Science,No,1776000,4,250000,Yes,No
+Female,25,4.5,4.27,2020,3.52,UITS,Business,No,1520000,3,500000,No,No
+Female,28,4.27,3.97,2019,3.4,SUST,Health & Medicine,No,935000,4,375000,No,No
+Female,20,3.33,4.67,2020,3.4,RU,Humainities,No,1170000,4,200000,No,No
+Male,21,3.4,3.89,2021,4,KUET,Data Science,No,1776000,3,500000,Yes,No
+Female,25,3.67,3.83,2022,3.15,KUET,Business,Yes,1520000,3,330000,No,No
+Male,19,4,4.5,2019,3.83,IUB,Mathematics,No,472000,3,472000,No,No
+Female,19,3.75,4.5,2022,3.52,UITS,Data Science,No,1776000,3,490000,Yes,Yes
+Male,25,4.47,3.83,2019,3.97,RU,Humainities,No,1170000,3,220000,Yes,No
+Male,20,3.46,4.47,2021,3.15,CU,Humainities,No,1170000,3,580000,No,No
+Female,28,4.97,4.27,2021,4,JU,Mathematics,Yes,472000,2,300000,No,Yes
+Male,30,4.67,3.67,2020,3.15,NSTU,Business,No,1520000,3,290000,No,No
+Male,27,5,5,2019,3.89,NSTU,Mathematics,No,472000,4,530000,No,No
+Female,26,4,4.4,2022,3.52,NSU,Computer Science,No,2429700,4,200000,Yes,No
+Male,26,3.97,3.27,2018,3.83,AIUB,Programming,Yes,1400000,2,250000,Yes,No
+Male,22,4.56,4.5,2019,3.46,UITS,Programming,No,1400000,3,290000,No,No
+Male,19,4.5,3.27,2022,3.97,NSU,Data Science,Yes,1776000,3,530000,No,No
+Male,30,3.67,4.09,2021,3.67,KUET,Computer Science,Yes,2429700,4,472000,Yes,No
+Male,20,3.46,3.33,2019,3.97,KUET,Computer Science,No,2429700,4,300000,Yes,Yes
+Female,26,4.89,3.58,2022,3.97,RU,Business,Yes,1520000,3,490000,Yes,Yes
+Female,19,4.72,3.58,2018,3.09,RU,Mathematics,Yes,472000,3,300000,No,No
+Female,30,3.58,3.67,2018,3.58,CU,Art & Design,Yes,1598000,3,500000,Yes,Yes
+Male,23,4,4.27,2018,3.15,CU,Education & Teaching,No,1215000,4,200000,No,No
+Female,19,4.83,3.52,2019,3.09,EWU,Art & Design,No,1598000,3,490000,No,No
+Female,22,4.33,3.4,2021,3,KUET,Education & Teaching,No,1215000,3,290000,No,No
+Male,19,4.4,4.83,2020,3.89,CU,Education & Teaching,No,1215000,3,330000,Yes,No
+Female,21,4.83,3.27,2021,3.67,MIST,Computer Science,Yes,2429700,2,300000,Yes,Yes
+Female,28,5,4.15,2020,3.27,EWU,Education & Teaching,No,1215000,4,250000,No,No
+Female,24,4.4,3,2018,3,MIST,Health & Medicine,No,935000,2,375000,No,No
+Female,20,4.89,3.58,2022,3.46,DU,Health & Medicine,Yes,935000,3,472000,No,No
+Female,26,4.4,3.67,2018,3.67,RUET,Education & Teaching,No,1215000,2,250000,Yes,No
+Male,20,3.89,4.56,2020,3.52,BracU,Business,No,1520000,4,440000,No,Yes
+Male,27,4.67,3.89,2018,3.09,AIUB,Art & Design,No,1598000,4,175000,No,No
+Male,18,3.15,4.09,2022,3.67,EWU,Mathematics,No,472000,3,440000,No,Yes
+Male,29,4,3.89,2022,3.09,UIU,Humainities,No,1170000,3,175000,No,No
+Female,18,4.09,4.67,2021,3.75,RU,Mathematics,Yes,472000,3,200000,No,Yes
+Male,22,4,3.15,2018,3.75,NSTU,Health & Medicine,No,935000,4,250000,Yes,Yes
+Male,27,3.15,4.83,2021,3.67,NSTU,Mathematics,No,472000,2,490000,No,No
+Female,29,3.15,4.97,2022,3.97,KUET,Programming,No,1400000,3,330000,Yes,Yes
+Male,27,4.5,4.89,2018,3.46,NSU,Mathematics,Yes,472000,4,500000,No,No
+Male,19,3.58,4.09,2019,3.15,IUB,Computer Science,Yes,2429700,4,400000,No,No
+Male,28,4.67,3.97,2020,3.67,NSU,Computer Science,No,2429700,3,200000,Yes,No
+Female,26,3.33,4.89,2021,3.09,IUB,Computer Science,No,2429700,2,400000,No,No
+Male,27,3.27,4.09,2018,3.33,DU,Art & Design,No,1598000,2,300000,No,No
+Male,23,4.33,4.4,2020,3.33,JU,Humainities,No,1170000,3,600000,No,No
+Male,28,3.58,3.33,2020,3.33,BracU,Programming,Yes,1400000,3,530000,No,No
+Female,29,5,3.33,2019,3.33,DU,Education & Teaching,Yes,1215000,2,500000,No,No
+Male,18,4.4,4.72,2019,3.83,IUB,Health & Medicine,No,935000,3,300000,Yes,Yes
+Male,30,4.67,4.56,2021,3,SUST,Art & Design,No,1598000,3,300000,No,No
+Male,20,3.4,4.33,2018,3.58,DU,Business,No,1520000,2,580000,Yes,Yes
+Female,27,3.09,4.09,2019,3.52,NSTU,Business,No,1520000,2,250000,No,No
+Female,25,3.52,3.33,2022,3.15,NSTU,Mathematics,No,472000,4,490000,No,No
+Male,24,4.97,3.83,2019,3.46,RUET,Data Science,Yes,1776000,2,580000,No,No
+Female,24,4.67,3.75,2022,3.27,EWU,Art & Design,No,1598000,4,530000,No,No
+Male,29,4.97,4.72,2019,3.33,KUET,Health & Medicine,No,935000,3,290000,No,No
+Female,20,3.67,4.09,2020,3.83,MIST,Data Science,Yes,1776000,4,375000,Yes,Yes
+Female,28,4.83,3.97,2018,3.97,NSU,Education & Teaching,No,1215000,4,330000,No,No
+Female,29,3.67,3.27,2022,3.75,RUET,Mathematics,Yes,472000,4,300000,Yes,Yes
+Male,25,3,4.5,2018,3.97,MIST,Education & Teaching,Yes,1215000,4,400000,Yes,Yes
+Female,20,4.33,4.56,2022,3.97,JNU,Computer Science,No,2429700,3,472000,No,No
+Male,18,3.67,3.83,2020,3.52,UITS,Health & Medicine,No,935000,4,490000,Yes,Yes
+Female,25,3.33,3.52,2019,3.75,UITS,Computer Science,Yes,2429700,2,530000,No,Yes
+Male,18,3.46,3.27,2020,3,NSTU,Art & Design,Yes,1598000,2,440000,No,No
+Male,30,3.83,3.83,2022,3.27,EWU,Health & Medicine,Yes,935000,2,290000,No,No
+Male,29,3.09,3.97,2021,3.67,IUB,Data Science,No,1776000,2,290000,No,No
+Male,19,3.09,3.83,2019,3.97,BracU,Humainities,No,1170000,4,375000,No,Yes
+Female,23,4.47,4.47,2022,3.33,KUET,Art & Design,Yes,1598000,3,472000,No,No
+Female,24,4.47,3.27,2020,4,RUET,Programming,No,1400000,2,580000,No,Yes
+Male,23,4.89,4.27,2020,3.09,AIUB,Education & Teaching,No,1215000,4,375000,No,No
+Male,23,3.97,3.4,2018,3.58,JU,Mathematics,No,472000,3,175000,Yes,Yes
+Female,22,3.75,4.5,2018,4,UITS,Art & Design,No,1598000,2,330000,Yes,Yes
+Male,23,3.75,3.27,2020,3.75,NSTU,Health & Medicine,Yes,935000,2,220000,Yes,Yes
+Female,22,3,3,2019,3.52,RU,Education & Teaching,No,1215000,4,175000,Yes,No
+Female,27,4.09,3.15,2018,3.09,BracU,Programming,No,1400000,3,400000,No,No
+Female,27,4.09,3.27,2020,3.15,UITS,Data Science,Yes,1776000,4,200000,No,No
+Male,29,4.09,3.52,2020,3.33,DU,Computer Science,No,2429700,4,580000,No,No
+Female,29,4.09,4.4,2020,4,JNU,Programming,No,1400000,3,490000,Yes,Yes
+Female,25,4.67,4.47,2022,3.83,EWU,Health & Medicine,No,935000,2,290000,Yes,Yes
+Male,19,3.52,3.09,2020,3.58,UITS,Health & Medicine,Yes,935000,2,580000,Yes,Yes
+Male,29,4.47,4.09,2018,3.83,BracU,Humainities,No,1170000,3,440000,Yes,No
+Male,27,5,4.67,2021,3.33,JU,Programming,No,1400000,2,200000,No,No
+Male,19,4.33,3.58,2021,3.09,SUST,Education & Teaching,No,1215000,4,300000,No,No
+Male,22,3.15,3.27,2019,3.89,EWU,Programming,No,1400000,2,330000,Yes,Yes
+Female,20,3.4,3.89,2020,3.67,NSTU,Education & Teaching,No,1215000,2,472000,No,No
+Female,21,4.56,4.89,2018,3.67,CU,Education & Teaching,No,1215000,2,375000,No,No
+Female,18,3.4,4.89,2020,3.15,JNU,Health & Medicine,Yes,935000,3,440000,No,No
+Male,22,3.15,4.67,2018,3.52,IUB,Health & Medicine,Yes,935000,2,300000,Yes,Yes
+Female,20,3.89,4.67,2021,3.4,BracU,Business,No,1520000,2,300000,No,No
+Male,20,4.4,4.72,2018,3.52,SUST,Humainities,Yes,1170000,3,300000,Yes,No
+Female,27,3.33,4.72,2020,3.52,RU,Data Science,No,1776000,2,400000,Yes,Yes
+Male,23,3.46,3.4,2021,3.97,NSU,Mathematics,Yes,472000,4,175000,Yes,No
+Female,24,4.5,4.56,2018,3.27,EWU,Business,Yes,1520000,3,472000,No,No
+Female,30,3.15,4.97,2022,3.15,AIUB,Art & Design,No,1598000,2,220000,No,No
+Male,28,4.27,4.89,2022,3.15,BracU,Humainities,No,1170000,2,400000,No,No
+Male,25,3.09,3.75,2022,3.97,EWU,Mathematics,Yes,472000,4,330000,Yes,No
+Male,23,3.67,3.89,2020,3.58,RU,Programming,Yes,1400000,3,290000,Yes,No
+Male,24,3.15,3.33,2020,3.58,DU,Education & Teaching,Yes,1215000,3,600000,Yes,Yes
+Female,26,4.4,3.75,2020,3.4,CU,Programming,Yes,1400000,4,300000,No,No
+Female,22,3.27,3.52,2020,3.75,IUB,Humainities,Yes,1170000,3,175000,Yes,Yes
+Male,28,4.56,5,2019,3,NSTU,Data Science,No,1776000,3,200000,No,No
+Female,27,4.33,4.72,2018,3.83,JU,Education & Teaching,No,1215000,4,330000,Yes,Yes
+Male,19,4.33,3.89,2018,3.27,JNU,Art & Design,No,1598000,3,220000,No,No
+Male,20,3.75,4.15,2019,3.15,RU,Business,No,1520000,3,600000,No,No
+Male,23,3.83,4.97,2021,3.27,AIUB,Computer Science,No,2429700,3,300000,No,No
+Male,27,4.5,3.58,2019,3.09,JU,Art & Design,Yes,1598000,4,530000,No,No
+Female,19,3.4,3.58,2020,3.97,NSU,Art & Design,No,1598000,3,300000,Yes,No
+Female,26,3.15,3.89,2018,3.58,BracU,Humainities,Yes,1170000,4,375000,No,Yes
+Male,28,4.56,3.4,2021,3.15,IUB,Computer Science,No,2429700,2,300000,No,No
+Female,28,3.83,3.15,2019,3.89,UIU,Mathematics,Yes,472000,3,440000,Yes,Yes
+Male,20,4.89,3.27,2018,3.52,NSU,Health & Medicine,No,935000,2,200000,Yes,Yes
+Female,25,4.5,4.72,2018,3.4,SUST,Business,Yes,1520000,3,220000,No,No
+Female,21,3.67,4.89,2018,3.52,SUST,Mathematics,Yes,472000,4,330000,Yes,No
+Female,20,4.09,3.89,2020,4,RUET,Business,No,1520000,3,440000,No,Yes
+Female,20,4.56,3.97,2020,4,UIU,Mathematics,Yes,472000,2,175000,Yes,Yes
+Male,30,3.89,4.27,2021,3.15,NSU,Education & Teaching,No,1215000,2,400000,No,No
+Male,30,4.33,3.58,2018,3.33,KUET,Data Science,No,1776000,2,472000,No,No
+Female,28,4.56,4.89,2021,3.52,AIUB,Programming,No,1400000,2,530000,Yes,Yes
+Male,21,4.27,4.47,2019,3.75,KUET,Health & Medicine,Yes,935000,3,472000,Yes,Yes
+Male,28,3.67,3.89,2020,3.15,KUET,Mathematics,Yes,472000,3,250000,No,No
+Male,21,3.89,4.09,2020,3.27,UIU,Mathematics,Yes,472000,2,440000,No,No
+Male,21,4.72,3,2021,4,UIU,Education & Teaching,Yes,1215000,4,472000,Yes,No
+Female,28,3.4,5,2018,3.58,SUST,Computer Science,Yes,2429700,3,500000,No,No
+Female,19,4.47,3.75,2020,3.52,SUST,Mathematics,No,472000,2,300000,No,Yes
+Female,30,4.5,4.09,2021,3.75,JNU,Mathematics,Yes,472000,3,300000,No,Yes
+Female,30,4.72,4.97,2021,3.75,NSU,Business,Yes,1520000,2,330000,No,No
+Female,28,3.67,4,2021,3.4,EWU,Humainities,Yes,1170000,2,472000,No,No
+Female,18,5,4.27,2020,3.58,DU,Health & Medicine,No,935000,2,175000,Yes,Yes
+Female,25,4.27,4.47,2019,3.83,UIU,Computer Science,No,2429700,3,220000,Yes,Yes
+Female,27,4.15,4.89,2018,3.75,RUET,Programming,No,1400000,3,530000,No,Yes
+Male,28,3,4.33,2020,3.15,UIU,Education & Teaching,Yes,1215000,2,400000,No,No
+Female,26,4.09,4,2019,3.09,UITS,Data Science,Yes,1776000,4,375000,No,No
+Male,19,3.09,4,2021,3.4,DU,Computer Science,Yes,2429700,4,300000,No,No
+Female,26,3.83,3.89,2018,4,CU,Education & Teaching,Yes,1215000,4,600000,Yes,Yes
+Male,23,3.67,3.09,2020,3.67,AIUB,Education & Teaching,Yes,1215000,3,530000,No,No
+Male,18,3.67,4.83,2020,3,EWU,Art & Design,Yes,1598000,3,175000,No,No
+Male,27,4.89,3.75,2022,3,RU,Education & Teaching,No,1215000,2,375000,No,No
+Female,30,3.52,3.09,2020,3.58,NSTU,Business,No,1520000,4,375000,Yes,Yes
+Female,18,4.27,4,2019,3.09,RUET,Art & Design,Yes,1598000,3,500000,No,No
+Male,21,5,4.47,2018,3,RUET,Computer Science,No,2429700,2,500000,No,No
+Male,19,4.67,4.67,2022,3.89,SUST,Health & Medicine,Yes,935000,3,200000,Yes,Yes
+Male,24,3.97,4.15,2021,3,RUET,Art & Design,Yes,1598000,2,175000,No,No
+Female,24,3.33,3.27,2018,3.97,KUET,Education & Teaching,Yes,1215000,3,375000,Yes,No
+Female,29,4.4,3.89,2022,3.46,DU,Art & Design,No,1598000,3,250000,No,No
+Male,23,4.27,4,2020,3.15,BracU,Education & Teaching,No,1215000,2,290000,No,No
+Female,18,3.52,4.27,2020,3.15,JU,Mathematics,No,472000,2,472000,No,No
+Female,24,4.67,4.72,2022,3.97,UIU,Health & Medicine,No,935000,2,250000,Yes,Yes
+Female,26,3.83,3.97,2019,3.97,UITS,Humainities,Yes,1170000,2,600000,Yes,Yes
+Female,28,4.27,4.56,2018,4,DU,Computer Science,Yes,2429700,4,175000,No,Yes
+Male,29,4.89,4.15,2021,3.27,SUST,Health & Medicine,Yes,935000,2,440000,No,No
+Female,21,3.89,3.58,2022,3.46,BracU,Data Science,No,1776000,4,330000,No,No
+Female,26,4.47,5,2020,3.09,RUET,Programming,No,1400000,2,400000,No,No
+Female,27,3.46,3.15,2021,3.97,UITS,Health & Medicine,Yes,935000,2,330000,Yes,Yes
+Female,20,4,3.09,2020,3.46,AIUB,Mathematics,No,472000,2,490000,No,No
+Female,27,4.97,4,2020,3.33,RU,Mathematics,Yes,472000,4,490000,No,No
+Male,29,4.72,3.4,2019,3.09,RU,Education & Teaching,Yes,1215000,3,200000,No,No
+Male,18,4.4,3.27,2021,3.46,KUET,Business,Yes,1520000,2,330000,No,No
+Male,28,4,4.47,2019,3.09,NSU,Data Science,No,1776000,3,300000,No,No
+Male,24,4.09,4.33,2020,3.75,EWU,Programming,No,1400000,2,440000,No,No
+Female,29,4.56,3.09,2018,3.52,NSU,Mathematics,Yes,472000,4,300000,Yes,No
+Female,27,4.4,4.56,2019,3.27,EWU,Health & Medicine,No,935000,2,290000,No,No
+Female,19,3.46,4.15,2022,3,DU,Mathematics,No,472000,3,175000,No,No
+Female,30,3.27,4.56,2018,3.52,NSU,Humainities,Yes,1170000,3,530000,Yes,Yes
+Female,26,4.67,3.4,2021,3.4,NSTU,Computer Science,No,2429700,4,500000,No,No
+Female,20,3.75,3.52,2021,3.67,JNU,Education & Teaching,No,1215000,4,300000,Yes,Yes
+Male,20,4.4,4.47,2018,3.58,SUST,Programming,Yes,1400000,3,580000,No,No
+Male,27,3.97,4.33,2021,3.67,NSTU,Business,Yes,1520000,4,375000,Yes,Yes
+Male,19,3.75,3.58,2022,4,BracU,Programming,Yes,1400000,4,250000,Yes,Yes
+Male,18,4.47,4.4,2018,3.89,DU,Mathematics,No,472000,3,330000,No,No
+Female,25,3.97,4.5,2020,3.15,IUB,Business,No,1520000,4,490000,No,No
+Male,19,3.46,4.97,2019,3.75,JU,Humainities,Yes,1170000,3,600000,Yes,No
+Male,21,4.67,4.27,2022,3.97,JNU,Computer Science,No,2429700,3,250000,No,No
+Male,18,4.5,4.97,2019,3.67,RUET,Programming,Yes,1400000,2,300000,Yes,Yes
+Female,19,3.15,4.4,2022,3.15,RU,Education & Teaching,No,1215000,4,490000,No,No
+Male,29,3.89,4.5,2022,3.15,RUET,Health & Medicine,No,935000,4,300000,No,No
+Male,25,3.89,5,2020,3,EWU,Computer Science,No,2429700,4,330000,No,No
+Female,24,3.52,4.89,2019,3.09,IUB,Programming,Yes,1400000,3,500000,No,No
+Male,20,4.09,4.15,2020,3.67,KUET,Programming,No,1400000,4,300000,No,No
+Female,30,4.15,3.46,2021,3,UITS,Computer Science,Yes,2429700,3,530000,No,No
+Female,25,4.5,4.09,2018,3.52,NSTU,Computer Science,Yes,2429700,3,580000,Yes,Yes
+Male,21,4.97,3.75,2021,3.09,RU,Humainities,Yes,1170000,4,600000,No,No
+Male,23,3.46,3.89,2020,3.67,AIUB,Programming,No,1400000,4,250000,No,No
+Male,24,3.15,3.46,2019,3.58,RUET,Health & Medicine,Yes,935000,2,600000,Yes,Yes
+Female,29,4.09,4.56,2022,3.46,JNU,Humainities,Yes,1170000,4,490000,No,No
+Male,23,4.4,3.4,2022,3.15,EWU,Education & Teaching,No,1215000,4,440000,No,No
+Male,20,3.46,3.75,2019,3.46,KUET,Computer Science,Yes,2429700,3,375000,No,No
+Male,23,4.4,4.67,2020,3.75,JU,Education & Teaching,No,1215000,4,375000,Yes,No
+Female,29,4.27,3.33,2019,3.4,EWU,Health & Medicine,Yes,935000,4,530000,No,No
+Male,20,3.83,3.83,2021,3.97,IUB,Humainities,No,1170000,2,290000,No,No
+Female,25,4.89,4.27,2020,3.46,NSU,Data Science,No,1776000,3,500000,No,No
+Female,27,5,4,2018,3.27,DU,Data Science,No,1776000,4,300000,No,No
+Female,18,4.33,4.5,2018,3.33,RU,Programming,Yes,1400000,4,330000,No,No
+Male,20,4.5,4.33,2018,3.83,MIST,Education & Teaching,No,1215000,4,220000,Yes,No
+Female,21,4.4,4.89,2019,3.27,JNU,Computer Science,No,2429700,2,330000,No,No
+Male,18,3,5,2018,3.97,DU,Humainities,No,1170000,4,400000,No,No
+Male,27,3.09,5,2020,3.15,CU,Mathematics,Yes,472000,3,200000,No,No
+Male,26,3.4,4.4,2022,3.89,CU,Mathematics,No,472000,3,175000,Yes,Yes
+Female,28,4.15,3.33,2019,3.97,RUET,Art & Design,Yes,1598000,4,400000,No,No
+Male,20,3.75,4,2021,4,MIST,Art & Design,Yes,1598000,2,250000,Yes,Yes
+Female,25,4,4.5,2018,3,MIST,Education & Teaching,Yes,1215000,2,530000,No,No
+Male,29,4.97,3.83,2022,4,UITS,Mathematics,No,472000,4,200000,Yes,Yes
+Female,19,3.67,3.97,2022,3.09,AIUB,Health & Medicine,No,935000,4,250000,No,No
+Female,22,4.67,4.97,2019,3.89,DU,Mathematics,Yes,472000,2,600000,Yes,Yes
+Male,22,4.67,4.83,2019,3,IUB,Data Science,Yes,1776000,3,580000,No,No
+Male,21,4.47,4.89,2020,4,EWU,Programming,Yes,1400000,3,290000,Yes,Yes
+Male,26,4.47,3.67,2022,3.4,MIST,Data Science,Yes,1776000,4,375000,No,No
+Male,22,3.09,3.09,2021,3.33,JNU,Programming,Yes,1400000,3,250000,No,No
+Female,18,4.15,3.97,2020,3.52,SUST,Art & Design,No,1598000,4,300000,Yes,No
+Male,23,4,3.67,2020,3.33,UIU,Mathematics,Yes,472000,3,300000,No,No
+Female,21,4.47,3.4,2020,3.46,EWU,Art & Design,Yes,1598000,2,490000,No,No
+Male,19,3.89,4.27,2021,3.46,JNU,Programming,No,1400000,3,200000,No,No
+Female,18,4.89,5,2020,3.58,UIU,Mathematics,No,472000,4,400000,No,No
+Female,23,5,3.75,2019,3.09,SUST,Mathematics,Yes,472000,4,330000,No,No
+Male,20,3.83,4.27,2018,3.67,JU,Computer Science,Yes,2429700,2,300000,Yes,No
+Female,22,3.09,4.89,2019,3.58,UITS,Data Science,No,1776000,4,300000,No,No
+Female,22,4,3.67,2019,3.46,NSTU,Programming,No,1400000,2,500000,No,No
+Female,28,4.09,3.27,2018,4,RU,Mathematics,No,472000,2,600000,Yes,No
+Female,20,4.5,4.47,2020,3.97,KUET,Art & Design,Yes,1598000,4,175000,Yes,No
+Male,19,3.15,4.97,2021,3.4,DU,Humainities,No,1170000,2,200000,No,No
+Female,29,5,3.58,2022,3.75,SUST,Education & Teaching,Yes,1215000,2,375000,No,Yes
+Female,24,5,3.46,2022,3.89,NSTU,Humainities,Yes,1170000,2,330000,No,Yes
+Male,28,4.33,4.97,2019,3.15,NSU,Data Science,Yes,1776000,4,300000,No,No
+Male,27,3.75,3.46,2021,3.52,JNU,Art & Design,No,1598000,2,250000,Yes,Yes
+Female,26,3.33,4.27,2020,4,IUB,Data Science,Yes,1776000,3,250000,Yes,No
+Female,23,4.83,4.47,2021,3.46,BracU,Mathematics,No,472000,3,400000,No,No
+Male,28,4.5,3.83,2019,3.58,MIST,Computer Science,No,2429700,4,600000,No,No
+Female,21,5,3.15,2020,3,JNU,Humainities,Yes,1170000,3,250000,No,No
+Female,30,4.27,4.89,2020,3,RU,Mathematics,No,472000,3,375000,No,No
+Female,21,4.5,3.58,2019,3,CU,Humainities,Yes,1170000,3,250000,No,No
+Male,27,4.72,4.83,2022,3.83,KUET,Health & Medicine,Yes,935000,2,300000,Yes,Yes
+Female,19,3.4,3.46,2021,3.83,RUET,Education & Teaching,Yes,1215000,4,500000,No,No
+Female,24,4.89,4.89,2021,3.67,DU,Mathematics,No,472000,4,200000,Yes,Yes
+Female,18,4.4,3.33,2019,3.33,NSU,Art & Design,No,1598000,2,472000,No,No
+Male,25,3.75,4.67,2021,3.15,CU,Mathematics,Yes,472000,3,580000,No,No
+Female,24,4.27,4.56,2019,3.27,NSU,Computer Science,No,2429700,3,530000,No,No
+Female,27,4.83,4.09,2019,3.83,RU,Business,Yes,1520000,3,290000,Yes,Yes
+Female,19,3.75,3.09,2019,3.83,BracU,Data Science,Yes,1776000,2,440000,Yes,No
+Male,29,4.27,3.27,2022,3.58,KUET,Humainities,Yes,1170000,3,375000,No,Yes
+Female,23,4,4.97,2020,3.33,CU,Humainities,Yes,1170000,3,330000,No,No
+Female,26,3.58,3.58,2021,3.75,EWU,Data Science,No,1776000,2,490000,Yes,No
+Female,19,3.67,4.33,2022,3.58,JNU,Programming,Yes,1400000,2,472000,Yes,Yes
+Female,20,4.47,5,2018,3.67,RU,Mathematics,No,472000,3,175000,Yes,Yes
+Female,20,3.33,4.83,2019,3.4,UITS,Programming,Yes,1400000,4,580000,No,No
+Male,25,3.09,4,2018,3.52,EWU,Data Science,No,1776000,4,580000,No,No
+Male,23,3.52,3.27,2020,3.67,BracU,Programming,No,1400000,4,500000,Yes,Yes
+Male,21,4.5,3.4,2022,3.75,NSU,Mathematics,No,472000,4,580000,No,Yes
+Male,25,3.89,4.56,2020,4,IUB,Art & Design,Yes,1598000,2,600000,No,No
+Male,28,4.5,5,2022,3.75,EWU,Business,No,1520000,4,580000,Yes,No
+Female,30,3.15,3.4,2021,3.89,RUET,Computer Science,Yes,2429700,4,580000,Yes,Yes
+Male,29,3,4.15,2021,3.46,JNU,Programming,Yes,1400000,4,400000,No,No
+Male,23,3.33,3.83,2019,3.33,UITS,Humainities,No,1170000,2,330000,No,No
+Female,25,4.89,3.46,2019,3.4,JU,Education & Teaching,No,1215000,2,400000,No,No
+Male,24,3.83,3.67,2020,3.89,JNU,Art & Design,No,1598000,3,250000,Yes,No
+Female,21,4.15,3.58,2020,3,UIU,Humainities,No,1170000,3,530000,No,No
+Female,21,4.09,3.97,2020,3.89,KUET,Health & Medicine,No,935000,4,375000,Yes,Yes
+Female,23,3.27,4.27,2019,3.58,UITS,Education & Teaching,Yes,1215000,3,330000,No,Yes
+Female,22,3.67,3.75,2021,3.58,UITS,Health & Medicine,No,935000,2,472000,Yes,Yes
+Male,28,3.75,3.97,2020,3.4,NSU,Art & Design,Yes,1598000,3,220000,No,No
+Female,18,3.83,4.09,2019,3.09,AIUB,Data Science,No,1776000,3,600000,No,No
+Female,30,3.89,4.4,2022,3,UIU,Business,Yes,1520000,3,175000,No,No
+Female,21,4.56,4.47,2020,3.15,UITS,Data Science,Yes,1776000,4,400000,No,No
+Female,21,3.52,3.89,2021,3.97,EWU,Education & Teaching,Yes,1215000,3,200000,No,Yes
+Male,29,3,3.75,2018,3.67,IUB,Health & Medicine,No,935000,2,440000,Yes,Yes
+Male,30,3.52,3.97,2018,3.58,UITS,Computer Science,Yes,2429700,3,220000,Yes,No
+Female,30,4.15,3.52,2020,3.67,UIU,Programming,No,1400000,3,500000,No,No
+Female,29,4.15,4.5,2019,3.67,RU,Art & Design,No,1598000,4,175000,No,Yes
+Male,22,4.89,3.46,2020,3.89,SUST,Education & Teaching,No,1215000,4,200000,Yes,Yes
+Male,28,3.27,3.58,2018,3.09,UIU,Art & Design,Yes,1598000,3,330000,No,No
+Female,30,4.67,3.83,2022,3.89,EWU,Education & Teaching,Yes,1215000,4,330000,No,Yes
+Female,20,3.09,3.15,2021,3.83,SUST,Business,Yes,1520000,3,440000,Yes,No
+Female,19,4.89,3.4,2021,3.58,KUET,Programming,Yes,1400000,3,290000,Yes,No
+Male,24,4.67,3.83,2022,3.97,IUB,Computer Science,No,2429700,2,220000,Yes,No
+Female,26,3.75,3.15,2021,3,MIST,Art & Design,No,1598000,3,580000,No,No
+Male,23,4.47,4.67,2018,3.67,NSU,Business,No,1520000,2,250000,No,Yes
+Male,23,4.33,4.72,2019,3.15,JNU,Mathematics,Yes,472000,4,440000,No,No
